@@ -1,14 +1,5 @@
 <h1 align="center">Privacy Respecting Services and Software 🔐</h1>
 
-<div align="center">
-<a href="https://www.patreon.com/nikitavoloboev">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/nikitavoloboev/privacy-respecting/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
-
 Here is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
 
 For reasons why you may want to care about this, you can read [this article](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079).
