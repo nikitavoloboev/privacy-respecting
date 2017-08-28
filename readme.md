@@ -9,7 +9,7 @@ The list is separated into topics and each service or software stated gives supp
 
 <h2 align="center">Search Engines 🔎</h2>
 
-You are the product : 
+**You are the product : **
 
 - Google 
 	- [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
@@ -18,7 +18,7 @@ You are the product :
 - Yandex 
 	- Russia's version of Google
 
-Alternatives :
+**Alternatives :**
 
 - [DuckDuckGo](https://duckduckgo.com/)
 	-  [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
@@ -29,7 +29,7 @@ Alternatives :
 
 <h2 align="center">Social Networks 👥</h2>
 
-You are the product : 
+**You are the product : **
 
 - Facebook 
 	- [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
@@ -38,7 +38,7 @@ You are the product :
 	- owned by Facebook
 
 
-Alternatives :
+**Alternatives :**
 
 - [Mastodon](https://mastodon.social/about)
 	- [What is mastodon.social?](https://mastodon.social/about/more)
@@ -48,7 +48,7 @@ Alternatives :
 
 <h2 align="center">Messengers 💬</h2>
 
-You are the product : 
+**You are the product : **
 
 - WhatsApp 
 	- owned by Facebook
@@ -59,7 +59,7 @@ You are the product :
 - Telegram
 	- [A Crypto Challenge For The Telegram Developers](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
 	
-Alternatives :
+**Alternatives :**
 
 - [Signal](https://whispersystems.org/)
 	- uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol)
@@ -68,7 +68,7 @@ Alternatives :
 
 <h2 align="center">Cloud Storage ☁️</h2>
 
-You are the product : 
+**You are the product : **
 
 - Google Drive
 	- centralised
@@ -77,7 +77,7 @@ You are the product :
 	- centralised
 	- US based 
 
-Alternatives :
+**Alternatives :**
 
 - [Syncthing](https://syncthing.net/)
 	- [open source](https://github.com/syncthing/syncthing)
@@ -91,12 +91,12 @@ Alternatives :
 
 <h2 align="center">Email 📧</h2>
 
-You are the product : 
+**You are the product : **
 
 - Gmail
 	- owned by Google
 
-Alternatives :
+**Alternatives :**
 
 - [ProtonMail](https://protonmail.com/)
 	- [security of ProtonMail](https://protonmail.com/security-details)
@@ -107,7 +107,7 @@ Alternatives :
 
 <h2 align="center">Operating Systems 💻</h2>
 
-You are the product : 
+**You are the product : **
 
 - Windows
 	- [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
@@ -116,7 +116,7 @@ You are the product :
 - Android (preinstalled)
 	- [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/)
 
-Alternatives :
+**Alternatives :**
 
 - [Linux](http://www.wikiwand.com/en/Linux) 
 	- open source kernel
@@ -127,14 +127,14 @@ Alternatives :
 
 <h2 align="center">Browsers 🌐</h2>
 
-You are the product : 
+**You are the product : **
 
 - Google Chrome 	
 	- owned by Google
 - Edge Browser
 	- owned by Microsoft
 	
-Alternatives :
+**Alternatives :**
 
 - [FireFox Browser](https://www.mozilla.org/en-US/firefox/new/)
 	- [FireFox privacy](https://www.mozilla.org/en-US/privacy/firefox/)
