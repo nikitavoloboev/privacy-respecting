@@ -64,7 +64,7 @@ The list is separated into topics and each service or software stated gives supp
 	- does not log metadata
 - [Threema](https://threema.ch/en/)
 - Telegram
-	- uses its own MTProto cryptocraphy protocol [which is not foul proof](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
+	- uses its own MTProto cryptography protocol [which is not foul proof](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
 
 <h2 align="center">Cloud Storage ☁️</h2>
 
