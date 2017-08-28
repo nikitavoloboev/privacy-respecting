@@ -144,7 +144,7 @@ The list is separated into topics and each service or software stated gives supp
 	- [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
 
 
-For more information, you can view a similar to this list [here](https://prism-break.org/en/all/#instant-messaging). As well as [this list of best privacy practices](https://spideroak.com/infosec/) and [various privacy tools](https://www.privacytools.io/) you can use.
+For more information, you can view a similar to this list [here](https://prism-break.org/en/all/). As well as [this list of best privacy practices](https://spideroak.com/infosec/) and [various privacy tools](https://www.privacytools.io/) you can use.
 
 <h1 align="center"> Thanks 🍀</h1>
 
