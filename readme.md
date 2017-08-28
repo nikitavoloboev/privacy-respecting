@@ -9,7 +9,7 @@ The list is separated into topics and each service or software stated gives supp
 
 <h2 align="center">Search Engines 🔎</h2>
 
-**You are the product :**
+*You are the product :*
 
 - Google 
 	- [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
