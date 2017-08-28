@@ -4,7 +4,7 @@ Here is a list of various 'free' services whose business models are to collect a
 
 For reasons why you may want to care about this, you can read [this article](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079).
 
-The list is separated into topics and each service or software states shows support for why you may want to stop using or alternatively start using their service.
+The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
 
 
 <h2 align="center">Search Engines 🔎</h2>
