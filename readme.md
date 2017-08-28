@@ -9,7 +9,7 @@ The list is separated into topics and each service or software stated gives supp
 
 <h2 align="center">Search Engines 🔎</h2>
 
-**You are the product : **
+**You are the product :**
 
 - Google 
 	- [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
@@ -29,7 +29,7 @@ The list is separated into topics and each service or software stated gives supp
 
 <h2 align="center">Social Networks 👥</h2>
 
-**You are the product : **
+**You are the product :**
 
 - Facebook 
 	- [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
@@ -48,7 +48,7 @@ The list is separated into topics and each service or software stated gives supp
 
 <h2 align="center">Messengers 💬</h2>
 
-**You are the product : **
+**You are the product :**
 
 - WhatsApp 
 	- owned by Facebook
@@ -68,7 +68,7 @@ The list is separated into topics and each service or software stated gives supp
 
 <h2 align="center">Cloud Storage ☁️</h2>
 
-**You are the product : **
+**You are the product :**
 
 - Google Drive
 	- centralised
@@ -91,7 +91,7 @@ The list is separated into topics and each service or software stated gives supp
 
 <h2 align="center">Email 📧</h2>
 
-**You are the product : **
+**You are the product :**
 
 - Gmail
 	- owned by Google
@@ -107,7 +107,7 @@ The list is separated into topics and each service or software stated gives supp
 
 <h2 align="center">Operating Systems 💻</h2>
 
-**You are the product : **
+**You are the product :**
 
 - Windows
 	- [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
@@ -127,7 +127,7 @@ The list is separated into topics and each service or software stated gives supp
 
 <h2 align="center">Browsers 🌐</h2>
 
-**You are the product : **
+**You are the product :**
 
 - Google Chrome 	
 	- owned by Google
