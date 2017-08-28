@@ -56,8 +56,6 @@ The list is separated into topics and each service or software stated gives supp
 	- [WhatsApp design feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages)
 - Facebook Messenger
 	- owned by Facebook
-- Telegram
-	- [A Crypto Challenge For The Telegram Developers](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
 	
 **Alternatives :**
 
@@ -65,6 +63,8 @@ The list is separated into topics and each service or software stated gives supp
 	- uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol)
 	- does not log metadata
 - [Threema](https://threema.ch/en/)
+- Telegram
+	- uses its own MTProto cryptocraphy protocol [which is not foul proof](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
 
 <h2 align="center">Cloud Storage ☁️</h2>
 
