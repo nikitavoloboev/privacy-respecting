@@ -64,6 +64,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Threema](https://threema.ch/en/)
 - Telegram
 	- uses its own MTProto cryptography protocol [which is not foul proof](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
+- [Matrix](https://matrix.org/)
+	- Open, federated, first-class-bridging, end-to-end encryption, multiple clients
+	- [Riot](https://about.riot.im/) - multiplatform client
 
 <h2 align="center">Cloud Storage ☁️</h2>
 
