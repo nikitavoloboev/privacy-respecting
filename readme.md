@@ -145,6 +145,11 @@ The list is separated into topics and each service or software stated gives supp
 
 For more information, you can view a similar to this list [here](https://prism-break.org/en/all/). As well as [this list of best privacy practices](https://spideroak.com/infosec/) and [various privacy tools](https://www.privacytools.io/) you can use.
 
+<h1 align="center"> Contribute 💛</h1>
+
+If you wish to improve this list, please do. You can [fork](https://github.com/nikitavoloboev/privacy-respecting#fork-destination-box) and add the changes you wish to see.
+
+
 <h1 align="center"> Thanks 🍀</h1>
 
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-191.2,-905.2,2) I shared. Thank you. 💛 
