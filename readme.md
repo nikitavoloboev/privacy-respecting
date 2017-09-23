@@ -64,6 +64,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Threema](https://threema.ch/en/)
 - Telegram
 	- uses its own MTProto cryptography protocol [which is not foul proof](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
+- [Ring](https://ring.cx/)
 
 <h2 align="center">Cloud Storage ☁️</h2>
 
@@ -123,6 +124,8 @@ The list is separated into topics and each service or software stated gives supp
 - iOS
 	- [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 - [Android with LineageOS](https://lineageos.org/about/)
+- [Tails OS](https://tails.boum.org/)
+- [Qubes OS](https://www.qubes-os.org)
 
 <h2 align="center">Browsers 🌐</h2>
 
@@ -143,7 +146,13 @@ The list is separated into topics and each service or software stated gives supp
 	- [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
 
 
-For more information, you can view a similar to this list [here](https://prism-break.org/en/all/). As well as [this list of best privacy practices](https://spideroak.com/infosec/) and [various privacy tools](https://www.privacytools.io/) you can use.
+For more information, you can take a look here : 
+
+- [Prism Break](https://prism-break.org/en/all/)
+- [list of best privacy practices](https://spideroak.com/infosec/) 
+- [various privacy tools you can use](https://www.privacytools.io/)
+- [privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy) 
+- 
 
 <h1 align="center"> Contribute 💛</h1>
 
