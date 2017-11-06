@@ -1,14 +1,13 @@
-# Privacy Respecting Services and Software 🔐 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+# Privacy Respecting [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+> Curated List of Privacy Respecting Services and Software
 
-## Description 📕
 Here is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
 
 For reasons why you may want to care about this, you can read [this article](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079).
 
 The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
 
-
-### Search Engines 🔎
+## Search Engines 
 **You are the product** **:**
 
 - Google 
@@ -27,7 +26,7 @@ The list is separated into topics and each service or software stated gives supp
 - [searX](https://searx.tk/) 
 	- [Why use searX?](https://searx.tk/about)
 
-### Social Networks 👥
+## Social Networks 
 **You are the product** **:**
 
 - Facebook 
@@ -44,7 +43,7 @@ The list is separated into topics and each service or software stated gives supp
 	- [What is Diaspora](https://diasporafoundation.org/)
 
 
-### Messengers 💬
+## Messengers 
 **You are the product** **:**
 
 - WhatsApp 
@@ -65,7 +64,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Ring](https://ring.cx/)
 
 
-### Cloud Storage ☁️
+## Cloud Storage 
 **You are the product** **:**
 
 - Google Drive
@@ -87,7 +86,7 @@ The list is separated into topics and each service or software stated gives supp
 	- self hosted
 
 
-### Email 📧
+## Email 
 **You are the product** **:**
 
 - Gmail
@@ -102,7 +101,7 @@ The list is separated into topics and each service or software stated gives supp
 	- [About Posteo](https://posteo.de/en/site/about_posteo/)
 	- [Transparency Report](https://posteo.de/en/site/transparency_report)
 
-### Operating Systems 💻
+## Operating Systems 
 **You are the product** **:**
 
 - Windows
@@ -123,7 +122,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
 
-### Browsers 🌐
+## Browsers 
 **You are the product** **:**
 
 - Google Chrome 	
@@ -148,8 +147,8 @@ For more information, you can take a look here :
 - [various privacy tools you can use](https://www.privacytools.io/)
 - [privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy) 
 
-## Contribute 💜
+## Contribute 
 If you wish to improve this list, please do. You can fork this repo and add the changes you wish to see.
 
-## Thanks 🍀
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💚
+## Thank you 💜
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
