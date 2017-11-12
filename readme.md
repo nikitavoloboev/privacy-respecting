@@ -8,7 +8,7 @@ For reasons why you may want to care about this, you can read [this article](htt
 The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
 
 ## Search Engines 
-**You are the product** **:**
+**You are the product:**
 
 - Google 
 	- [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
@@ -17,17 +17,17 @@ The list is separated into topics and each service or software stated gives supp
 - Yandex 
 	- Russia's version of Google
 
-**Alternatives** **:**
+**Alternatives:**
 
 - [DuckDuckGo](https://duckduckgo.com/)
 	-  [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
 - [StartPage](https://www.startpage.com)
 	- [How we protect you](https://www.startpage.com/eng/protect-privacy.html)
-- [searX](https://searx.tk/) 
-	- [Why use searX?](https://searx.tk/about)
+- [searx](https://github.com/asciimoo/searx/) 
+	- [Why use searx?](https://github.com/asciimoo/searx/)
 
 ## Social Networks 
-**You are the product** **:**
+**You are the product:**
 
 - Facebook 
 	- [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
@@ -35,7 +35,7 @@ The list is separated into topics and each service or software stated gives supp
 - Instagram 
 	- owned by Facebook
 
-**Alternatives** **:**
+**Alternatives:**
 
 - [Mastodon](https://mastodon.social/about)
 	- [What is mastodon.social?](https://mastodon.social/about/more)
@@ -44,7 +44,7 @@ The list is separated into topics and each service or software stated gives supp
 
 
 ## Messengers 
-**You are the product** **:**
+**You are the product:**
 
 - WhatsApp 
 	- owned by Facebook
@@ -53,7 +53,7 @@ The list is separated into topics and each service or software stated gives supp
 - Facebook Messenger
 	- owned by Facebook
 	
-**Alternatives** **:**
+**Alternatives:**
 
 - [Signal](https://whispersystems.org/)
 	- uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol)
@@ -65,7 +65,7 @@ The list is separated into topics and each service or software stated gives supp
 
 
 ## Cloud Storage 
-**You are the product** **:**
+**You are the product:**
 
 - Google Drive
 	- centralised
@@ -74,7 +74,7 @@ The list is separated into topics and each service or software stated gives supp
 	- centralised
 	- US based 
 
-**Alternatives** **:**
+**Alternatives:**
 
 - [Syncthing](https://syncthing.net/)
 	- [open source](https://github.com/syncthing/syncthing)
@@ -87,7 +87,7 @@ The list is separated into topics and each service or software stated gives supp
 
 
 ## Email 
-**You are the product** **:**
+**You are the product:**
 
 - Gmail
 	- owned by Google
@@ -102,7 +102,7 @@ The list is separated into topics and each service or software stated gives supp
 	- [Transparency Report](https://posteo.de/en/site/transparency_report)
 
 ## Operating Systems 
-**You are the product** **:**
+**You are the product:**
 
 - Windows
 	- [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
@@ -111,7 +111,7 @@ The list is separated into topics and each service or software stated gives supp
 - Android (preinstalled)
 	- [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/)
 
-**Alternatives** **:**
+**Alternatives:**
 
 - [Linux](http://www.wikiwand.com/en/Linux) 
 	- open source kernel
@@ -123,24 +123,24 @@ The list is separated into topics and each service or software stated gives supp
 - [Qubes OS](https://www.qubes-os.org)
 
 ## Browsers 
-**You are the product** **:**
+**You are the product:**
 
 - Google Chrome 	
 	- owned by Google
 - Edge Browser
 	- owned by Microsoft
 	
-**Alternatives** **:**
+**Alternatives:**
 
-- [FireFox Browser](https://www.mozilla.org/en-US/firefox/new/)
-	- [FireFox privacy](https://www.mozilla.org/en-US/privacy/firefox/)
+- [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)
+	- [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/)
 - [Brave Browser](https://www.brave.com/)
 	- [About Brave](https://www.brave.com/about/)
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32)
 	- [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
 
 ## More information 
-For more information, you can take a look here : 
+For more information, you can take a look here: 
 
 - [Prism Break](https://prism-break.org/en/all/)
 - [list of best privacy practices](https://spideroak.com/infosec/) 
