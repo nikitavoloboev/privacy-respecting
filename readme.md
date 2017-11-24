@@ -1,7 +1,7 @@
 # Privacy Respecting [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > Curated List of Privacy Respecting Services and Software
 
-Here is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
+This is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
 
 For reasons why you may want to care about this, you can read [this article](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079).
 
@@ -141,14 +141,16 @@ The list is separated into topics and each service or software stated gives supp
 
 ## More information 
 For more information, you can take a look here: 
-
 - [Prism Break](https://prism-break.org/en/all/)
-- [list of best privacy practices](https://spideroak.com/infosec/) 
-- [various privacy tools you can use](https://www.privacytools.io/)
-- [privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy) 
+- [List of best privacy practices](https://spideroak.com/infosec/) 
+- [Various privacy tools you can use](https://www.privacytools.io/)
+- [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy) 
 
-## Contribute 
+## Contributing
 If you wish to improve this list, please do. You can fork this repo and add the changes you wish to see.
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
+
+## License
+MIT © [Nikita Voloboev](https://www.nikitavoloboev.xyz)
