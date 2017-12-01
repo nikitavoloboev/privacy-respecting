@@ -16,19 +16,19 @@ The list is separated into topics and each service or software stated gives supp
 ## Search Engines 
 **⚠️ You are the product:**
 - Google 
-	- ⚠️ [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
+	- [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
 - Bing 
-	- ⚠️ Owned by Microsoft
+	- Owned by Microsoft
 - Yandex 
-	- ⚠️ Russia's version of Google
+	- Russia's version of Google
 
 **🔏 Alternatives:**
 - [DuckDuckGo](https://duckduckgo.com/)
-	- 🔏 [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
+	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
 - [StartPage](https://www.startpage.com)
-	- 🔏 [How we protect you](https://www.startpage.com/eng/protect-privacy.html)
+	- [How we protect you](https://www.startpage.com/eng/protect-privacy.html)
 - [Searx](https://github.com/asciimoo/searx/) 
-	- 🔏 [Why use Searx?](https://github.com/asciimoo/searx/)
+	- [Why use Searx?](https://github.com/asciimoo/searx/)
 
 ## Social Networks 
 **⚠️ You are the product:**
@@ -96,22 +96,20 @@ The list is separated into topics and each service or software stated gives supp
 	- 🔏 [Transparency Report](https://posteo.de/en/site/transparency_report)
 
 ## Operating Systems 
-**You are the product:**
-
+**⚠️ You are the product:**
 - Windows
-	- [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
+	- ⚠️ [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
 - Chrome OS
-	- owned by Google
+	- ⚠️ Owned by Google
 - Android (preinstalled)
-	- [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/)
+	- ⚠️ [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/)
 
-**Alternatives:**
-
+**🔏 Alternatives:**
 - [Linux](http://www.wikiwand.com/en/Linux) 
-	- open source kernel
-	- has many [distributions](https://learn-anything.xyz/operating-systems/unix/linux/distributions) you can use
+	- 🔏 Open source kernel
+	- 🔏 Has many [distributions](https://learn-anything.xyz/operating-systems/unix/linux/distributions) you can use
 - iOS
-	- [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
+	- 🔏 [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 - [Android with LineageOS](https://lineageos.org/about/)
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
