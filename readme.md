@@ -1,4 +1,4 @@
-# Privacy Respecting [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+# Privacy Respecting 
 > Curated List of Privacy Respecting Services and Software
 
 ## Contents
@@ -38,7 +38,9 @@ The list is separated into topics and each service or software stated gives supp
 - Instagram 
 	- ⚠️ Owned by Facebook
 
-**Alternatives:**
+**🔏 Alternatives:**
+- [Scuttlebutt](https://www.scuttlebutt.nz)
+	- 🔏 [Principles](https://www.scuttlebutt.nz/principles.html)
 - [Mastodon](https://mastodon.social/about)
 	- 🔏 [What is mastodon.social?](https://mastodon.social/about/more)
 - [Diaspora](https://joindiaspora.com/)
@@ -47,7 +49,6 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Messengers 
 **You are the product:**
-
 - WhatsApp 
 	- owned by Facebook
 	- logs metadata
@@ -155,4 +156,4 @@ If you wish to improve this list, please do. You can fork this repo and add the 
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
 
 ## License
-MIT © [Nikita Voloboev](https://www.nikitavoloboev.xyz)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
