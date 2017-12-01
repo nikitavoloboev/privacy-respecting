@@ -8,7 +8,7 @@ For reasons why you may want to care about this, you can read [this article](htt
 The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
 
 ## Search Engines 
-**You are the product:**
+**⚠️ You are the product:**
 
 - Google 
 	- ⚠️ [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
@@ -20,7 +20,7 @@ The list is separated into topics and each service or software stated gives supp
 **Alternatives:**
 
 - [DuckDuckGo](https://duckduckgo.com/)
-	-  [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
+	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
 - [StartPage](https://www.startpage.com)
 	- [How we protect you](https://www.startpage.com/eng/protect-privacy.html)
 - [searx](https://github.com/asciimoo/searx/) 
