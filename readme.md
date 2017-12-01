@@ -5,6 +5,13 @@
 - [What?](#what?)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
+- [Messengers](#messengers)
+- [Cloud Storage](#cloud-storage)
+- [Email](#email)
+- [Operating Systems](#operating-systems)
+- [Browsers](#browsers)
+- [More information](#more-information)
+- [Contributing](#contributing)
 
 ## What?
 This is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
