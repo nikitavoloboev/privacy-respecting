@@ -48,46 +48,39 @@ The list is separated into topics and each service or software stated gives supp
 
 
 ## Messengers 
-**You are the product:**
+**⚠️ You are the product:**
 - WhatsApp 
-	- owned by Facebook
-	- logs metadata
-	- [WhatsApp design feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages)
+	- ⚠️ Owned by Facebook
+	- ⚠️ [WhatsApp design feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages)
+	- ⚠️ Logs metadata
 - Facebook Messenger
-	- owned by Facebook
+	- ⚠️ Owned by Facebook
 	
-**Alternatives:**
-
+**🔏 Alternatives:**
 - [Signal](https://whispersystems.org/)
-	- uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol)
-	- does not log metadata
+	- 🔏 Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol)
+	- 🔏 Does not log metadata
 - [Threema](https://threema.ch/en/)
-- Telegram
-	- uses its own MTProto cryptography protocol [which is not foul proof](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
 - [Ring](https://ring.cx/)
-
+- Telegram
+	- ⚠️ Uses its own MTProto cryptography protocol [which is not foul proof](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
 
 ## Cloud Storage 
-**You are the product:**
-
+**⚠️ You are the product:**
 - Google Drive
-	- centralised
-	- owned by Google
+	- ⚠️ Centralised and owned by Google
 - Dropbox
-	- centralised
-	- US based 
+	- ⚠️ Centralised and US based 
 
-**Alternatives:**
-
+**🔏 Alternatives:**
 - [Syncthing](https://syncthing.net/)
-	- [open source](https://github.com/syncthing/syncthing)
-	- decentralised 
+	- 🔏 [Open source](https://github.com/syncthing/syncthing)
+	- 🔏 Decentralised 
 - [Seafile](https://www.seafile.com/en/home/)
-	- [about Seafile](https://www.seafile.com/en/about/)
+	- 🔏 [About Seafile](https://www.seafile.com/en/about/)
 - [Nextcloud](https://nextcloud.com/)
-	- [about Nextcloud](https://nextcloud.com/about/)
-	- self hosted
-
+	- 🔏 [About Nextcloud](https://nextcloud.com/about/)
+	- 🔏 Self hosted
 
 ## Email 
 **You are the product:**
@@ -151,9 +144,6 @@ For more information, you can take a look here:
 
 ## Contributing
 If you wish to improve this list, please do. You can fork this repo and add the changes you wish to see.
-
-## Thank you 💜
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
