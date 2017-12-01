@@ -1,11 +1,18 @@
 # Privacy Respecting [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > Curated List of Privacy Respecting Services and Software
 
+## Contents
+- [What?](#what?)
+- [Search Engines](#search-engines)
+- [Social Networks](#social-networks)
+
+## What?
 This is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
 
 For reasons why you may want to care about this, you can read [this article](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079).
 
 The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
+
 
 ## Search Engines 
 **⚠️ You are the product:**
@@ -13,27 +20,27 @@ The list is separated into topics and each service or software stated gives supp
 - Google 
 	- ⚠️ [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
 - Bing 
-	- Owned by Microsoft
+	- ⚠️ Owned by Microsoft
 - Yandex 
-	- Russia's version of Google
+	- ⚠️ Russia's version of Google
 
-**Alternatives:**
+**🔏 Alternatives:**
 
 - [DuckDuckGo](https://duckduckgo.com/)
-	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
+	- 🔏 [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
 - [StartPage](https://www.startpage.com)
-	- [How we protect you](https://www.startpage.com/eng/protect-privacy.html)
-- [searx](https://github.com/asciimoo/searx/) 
-	- [Why use searx?](https://github.com/asciimoo/searx/)
+	- 🔏 [How we protect you](https://www.startpage.com/eng/protect-privacy.html)
+- [Searx](https://github.com/asciimoo/searx/) 
+	- 🔏 [Why use Searx?](https://github.com/asciimoo/searx/)
 
 ## Social Networks 
-**You are the product:**
+**⚠️ You are the product:**
 
 - Facebook 
-	- [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
-	- [Get your loved ones off Facebook.](http://www.salimvirani.com//facebook/)
+	- ⚠️ [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
+	- ⚠️ [Get your loved ones off Facebook.](http://www.salimvirani.com//facebook/)
 - Instagram 
-	- owned by Facebook
+	- ⚠️ Owned by Facebook
 
 **Alternatives:**
 
