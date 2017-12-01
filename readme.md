@@ -13,10 +13,8 @@ For reasons why you may want to care about this, you can read [this article](htt
 
 The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
 
-
 ## Search Engines 
 **⚠️ You are the product:**
-
 - Google 
 	- ⚠️ [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
 - Bing 
@@ -25,7 +23,6 @@ The list is separated into topics and each service or software stated gives supp
 	- ⚠️ Russia's version of Google
 
 **🔏 Alternatives:**
-
 - [DuckDuckGo](https://duckduckgo.com/)
 	- 🔏 [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
 - [StartPage](https://www.startpage.com)
@@ -35,7 +32,6 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Social Networks 
 **⚠️ You are the product:**
-
 - Facebook 
 	- ⚠️ [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
 	- ⚠️ [Get your loved ones off Facebook.](http://www.salimvirani.com//facebook/)
@@ -43,11 +39,10 @@ The list is separated into topics and each service or software stated gives supp
 	- ⚠️ Owned by Facebook
 
 **Alternatives:**
-
 - [Mastodon](https://mastodon.social/about)
-	- [What is mastodon.social?](https://mastodon.social/about/more)
+	- 🔏 [What is mastodon.social?](https://mastodon.social/about/more)
 - [Diaspora](https://joindiaspora.com/)
-	- [What is Diaspora](https://diasporafoundation.org/)
+	- 🔏 [What is Diaspora](https://diasporafoundation.org/)
 
 
 ## Messengers 
