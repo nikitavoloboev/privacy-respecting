@@ -83,19 +83,17 @@ The list is separated into topics and each service or software stated gives supp
 	- 🔏 Self hosted
 
 ## Email 
-**You are the product:**
-
+**⚠️ You are the product:**
 - Gmail
-	- owned by Google
+	- ⚠️ Owned by Google
 
-**Alternatives** **:**
-
+**🔏 Alternatives:**
 - [ProtonMail](https://protonmail.com/)
-	- [security of ProtonMail](https://protonmail.com/security-details)
+	- 🔏 [Security of ProtonMail](https://protonmail.com/security-details)
 - [Tutanota](https://tutanota.com/)
 - [Posteo](https://posteo.de/en)
-	- [About Posteo](https://posteo.de/en/site/about_posteo/)
-	- [Transparency Report](https://posteo.de/en/site/transparency_report)
+	- 🔏 [About Posteo](https://posteo.de/en/site/about_posteo/)
+	- 🔏 [Transparency Report](https://posteo.de/en/site/transparency_report)
 
 ## Operating Systems 
 **You are the product:**
