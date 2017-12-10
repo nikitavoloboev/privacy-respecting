@@ -143,6 +143,16 @@ For more information, you can take also read this:
 - [Various privacy tools you can use](https://www.privacytools.io/)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy) 
 
+## AI assistants
+** You are the product:**
+- Amazon Alexa
+- Google Home
+- IBM Watson
+- Apple Siri and HomePod
+
+** Alternatives:**
+- [Snips](https://snips.ai) AI assistant platform
+
 ## Contributing
 If you wish to improve this list, please do! You can fork this repo and add the changes you want to see.
 
