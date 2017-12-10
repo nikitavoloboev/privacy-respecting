@@ -10,6 +10,7 @@
 - [Email](#email)
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
+- [AI Assistants](###-ai-assistants)
 - [More information](#more-information)
 - [Contributing](#contributing)
 
@@ -136,22 +137,22 @@ The list is separated into topics and each service or software stated gives supp
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32)
 	- [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
 
+## AI Assistants
+**⚠️ You are the product:**
+- Amazon Alexa
+- Google Home
+- IBM Watson
+- Apple Siri and HomePod
+
+**🔏 Alternatives:**
+- [Snips](https://snips.ai) - AI assistant platform
+	
 ## More information 
 For more information, you can take also read this: 
 - [Prism Break](https://prism-break.org/en/all/)
 - [List of best privacy practices](https://spideroak.com/infosec/) 
 - [Various privacy tools you can use](https://www.privacytools.io/)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy) 
-
-## AI assistants
-** You are the product:**
-- Amazon Alexa
-- Google Home
-- IBM Watson
-- Apple Siri and HomePod
-
-** Alternatives:**
-- [Snips](https://snips.ai) AI assistant platform
 
 ## Contributing
 If you wish to improve this list, please do! You can fork this repo and add the changes you want to see.
