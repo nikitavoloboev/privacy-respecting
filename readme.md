@@ -10,7 +10,7 @@
 - [Email](#email)
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
-- [AI Assistants](###-ai-assistants)
+- [AI Assistants](#ai-assistants)
 - [More information](#more-information)
 - [Contributing](#contributing)
 
