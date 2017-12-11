@@ -148,7 +148,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Snips](https://snips.ai) - AI assistant platform
 	
 ## More information 
-For more information, you can take also read this: 
+For more information, you can also read this: 
 - [Prism Break](https://prism-break.org/en/all/)
 - [List of best privacy practices](https://spideroak.com/infosec/) 
 - [Various privacy tools you can use](https://www.privacytools.io/)
