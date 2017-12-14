@@ -1,8 +1,6 @@
 # Privacy Respecting 
 > Curated List of Privacy Respecting Services and Software
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
-
 ## Contents
 - [What?](#what?)
 - [Search Engines](#search-engines)
@@ -157,6 +155,9 @@ For more information, you can also read this:
 - [List of best privacy practices](https://spideroak.com/infosec/) 
 - [Various privacy tools you can use](https://www.privacytools.io/)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy) 
+
+## Contributing
+*Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
