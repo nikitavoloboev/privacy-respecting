@@ -72,8 +72,10 @@ The list is separated into topics and each service or software stated gives supp
 	- Does not log metadata
 - [Threema](https://threema.ch/en/)
 - [Ring](https://ring.cx/)
-- Telegram
-	- Uses its own MTProto cryptography protocol [which is not foul proof](https://www.reddit.com/r/privacy/comments/5mnzxr/facebook_messenger_alternatives/)
+- [Conversations](https://conversations.im/)
+	- built on XMPP/Jabber
+	- supports several well-audited encryption protocols
+	- you can talk with Conversations users via dozens of open source XMPP clients
 
 ## Cloud Storage 
 **⚠️ You are the product:**
