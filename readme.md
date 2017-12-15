@@ -1,6 +1,8 @@
 # Privacy Respecting 
 > Curated List of Privacy Respecting Services and Software
 
+[Suggestions](https://github.com/nikitavoloboev/privacy-respecting/issues) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
+
 ## Contents
 - [What?](#what?)
 - [Search Engines](#search-engines)
@@ -11,8 +13,7 @@
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
 - [AI Assistants](#ai-assistants)
-- [More information](#more-information)
-- [Contributing](#contributing)
+- [Related](#related)
 
 ## What?
 This is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
@@ -149,15 +150,11 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [Snips](https://snips.ai) - AI assistant platform
 	
-## More information 
-For more information, you can also read this: 
+## Related
 - [Prism Break](https://prism-break.org/en/all/)
 - [List of best privacy practices](https://spideroak.com/infosec/) 
 - [Various privacy tools you can use](https://www.privacytools.io/)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy) 
-
-## Contributing
-*Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
