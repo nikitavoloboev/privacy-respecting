@@ -1,4 +1,4 @@
-# Privacy Respecting 
+# Privacy Respecting
 > Curated List of Privacy Respecting Services and Software
 
 [Suggestions](https://github.com/nikitavoloboev/privacy-respecting/issues) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
@@ -22,13 +22,13 @@ For reasons why you may want to care about this, you can read [this article](htt
 
 The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
 
-## Search Engines 
+## Search Engines
 **⚠️ You are the product:**
-- Google 
+- Google
 	- [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
-- Bing 
+- Bing
 	- Owned by Microsoft
-- Yandex 
+- Yandex
 	- Russia's version of Google
 
 **🔏 Alternatives:**
@@ -36,15 +36,15 @@ The list is separated into topics and each service or software stated gives supp
 	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
 - [StartPage](https://www.startpage.com)
 	- [How we protect you](https://www.startpage.com/eng/protect-privacy.html)
-- [Searx](https://github.com/asciimoo/searx/) 
+- [Searx](https://github.com/asciimoo/searx/)
 	- [Why use Searx?](https://github.com/asciimoo/searx/)
 
-## Social Networks 
+## Social Networks
 **⚠️ You are the product:**
-- Facebook 
+- Facebook
 	- [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
 	- [Get your loved ones off Facebook.](http://www.salimvirani.com//facebook/)
-- Instagram 
+- Instagram
 	- Owned by Facebook
 
 **🔏 Alternatives:**
@@ -56,15 +56,15 @@ The list is separated into topics and each service or software stated gives supp
 	- [What is Diaspora](https://diasporafoundation.org/)
 
 
-## Messengers 
+## Messengers
 **⚠️ You are the product:**
-- WhatsApp 
+- WhatsApp
 	- Owned by Facebook
 	- [WhatsApp design feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages)
 	- Logs metadata
 - Facebook Messenger
 	- Owned by Facebook
-	
+
 **🔏 Alternatives:**
 - [Signal](https://whispersystems.org/)
 	- Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol)
@@ -76,24 +76,24 @@ The list is separated into topics and each service or software stated gives supp
 	- supports several well-audited encryption protocols
 	- you can talk with Conversations users via dozens of open source XMPP clients
 
-## Cloud Storage 
+## Cloud Storage
 **⚠️ You are the product:**
 - Google Drive
 	- Centralised and owned by Google
 - Dropbox
-	- Centralised and US based 
+	- Centralised and US based
 
 **🔏 Alternatives:**
 - [Syncthing](https://syncthing.net/)
 	- [Open source](https://github.com/syncthing/syncthing)
-	- Decentralised 
+	- Decentralised
 - [Seafile](https://www.seafile.com/en/home/)
 	- [About Seafile](https://www.seafile.com/en/about/)
 - [Nextcloud](https://nextcloud.com/)
 	- [About Nextcloud](https://nextcloud.com/about/)
 	- Self hosted
 
-## Email 
+## Email
 **⚠️ You are the product:**
 - Gmail
 	- Owned by Google
@@ -106,7 +106,7 @@ The list is separated into topics and each service or software stated gives supp
 	- [About Posteo](https://posteo.de/en/site/about_posteo/)
 	- [Transparency Report](https://posteo.de/en/site/transparency_report)
 
-## Operating Systems 
+## Operating Systems
 **⚠️ You are the product:**
 - Windows
 	- [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
@@ -116,7 +116,7 @@ The list is separated into topics and each service or software stated gives supp
 	- [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/)
 
 **🔏 Alternatives:**
-- [Linux](http://www.wikiwand.com/en/Linux) 
+- [Linux](http://www.wikiwand.com/en/Linux)
 	- Open source kernel
 	- Has many [distributions](https://learn-anything.xyz/operating-systems/unix/linux/distributions) you can use
 - iOS
@@ -125,13 +125,13 @@ The list is separated into topics and each service or software stated gives supp
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
 
-## Browsers 
+## Browsers
 **⚠️ You are the product:**
-- Google Chrome 	
+- Google Chrome
 	- Owned by Google
 - Edge Browser
 	- Owned by Microsoft
-	
+
 **🔏 Alternatives:**
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)
 	- [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/)
@@ -149,12 +149,12 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 - [Snips](https://snips.ai) - AI assistant platform
-	
+
 ## Related
 - [Prism Break](https://prism-break.org/en/all/)
-- [List of best privacy practices](https://spideroak.com/infosec/) 
+- [List of best privacy practices](https://spideroak.com/infosec/)
 - [Various privacy tools you can use](https://www.privacytools.io/)
-- [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy) 
+- [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
