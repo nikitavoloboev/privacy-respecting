@@ -24,20 +24,14 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Search Engines
 **⚠️ You are the product:**
-- Google
-	- [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/)
-- Bing
-	- Owned by Microsoft
-- Yandex
-	- Russia's version of Google
+- Google - [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/).
+- Bing - Owned by Microsoft.
+- Yandex - Russia's version of Google.
 
 **🔏 Alternatives:**
-- [DuckDuckGo](https://duckduckgo.com/)
-	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
-- [StartPage](https://www.startpage.com)
-	- [How we protect you](https://www.startpage.com/eng/protect-privacy.html)
-- [Searx](https://github.com/asciimoo/searx/)
-	- [Why use Searx?](https://github.com/asciimoo/searx/)
+- [DuckDuckGo](https://duckduckgo.com/)	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
+- [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
+- [Searx](https://github.com/asciimoo/searx/) - [Why use Searx?](https://github.com/asciimoo/searx/).
 
 ## Social Networks
 **⚠️ You are the product:**
