@@ -42,97 +42,62 @@ The list is separated into topics and each service or software stated gives supp
 	- Owned by Facebook
 
 **🔏 Alternatives:**
-- [Scuttlebutt](https://www.scuttlebutt.nz)
-	- [Principles](https://www.scuttlebutt.nz/principles.html)
-- [Mastodon](https://mastodon.social/about)
-	- [What is mastodon.social?](https://mastodon.social/about/more)
-- [Diaspora](https://joindiaspora.com/)
-	- [What is Diaspora](https://diasporafoundation.org/)
-
+- [Scuttlebutt](https://www.scuttlebutt.nz) - [Scuttlebutt principles](https://www.scuttlebutt.nz/principles.html).
+- [Mastodon](https://mastodon.social/about) - [What is mastodon.social?](https://mastodon.social/about/more).
+- [Diaspora](https://joindiaspora.com/) - [What is Diaspora](https://diasporafoundation.org/).
 
 ## Messengers
 **⚠️ You are the product:**
-- WhatsApp
-	- Owned by Facebook
-	- [WhatsApp design feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages)
-	- Logs metadata
-- Facebook Messenger
-	- Owned by Facebook
+- WhatsApp - [WhatsApp design feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages).
+- Facebook Messenger - Owned by Facebook.
 
 **🔏 Alternatives:**
-- [Signal](https://whispersystems.org/)
-	- Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol)
-	- Does not log metadata
+- [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol).
 - [Threema](https://threema.ch/en/)
 - [Ring](https://ring.cx/)
-- [Conversations](https://conversations.im/)
-	- built on XMPP/Jabber
-	- supports several well-audited encryption protocols
-	- you can talk with Conversations users via dozens of open source XMPP clients
+- [Conversations](https://conversations.im/) - Built on XMPP/Jabber.
 
 ## Cloud Storage
 **⚠️ You are the product:**
-- Google Drive
-	- Centralised and owned by Google
-- Dropbox
-	- Centralised and US based
+- Google Drive - Centralised and owned by Google.
+- Dropbox - Centralised and US based.
 
 **🔏 Alternatives:**
-- [Syncthing](https://syncthing.net/)
-	- [Open source](https://github.com/syncthing/syncthing)
-	- Decentralised
-- [Seafile](https://www.seafile.com/en/home/)
-	- [About Seafile](https://www.seafile.com/en/about/)
-- [Nextcloud](https://nextcloud.com/)
-	- [About Nextcloud](https://nextcloud.com/about/)
-	- Self hosted
+- [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing).
+- [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
+- [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Selft hosted.
 
 ## Email
 **⚠️ You are the product:**
-- Gmail
-	- Owned by Google
+- Gmail - Owned by Google.
 
 **🔏 Alternatives:**
-- [ProtonMail](https://protonmail.com/)
-	- [Security of ProtonMail](https://protonmail.com/security-details)
+- [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
 - [Tutanota](https://tutanota.com/)
-- [Posteo](https://posteo.de/en)
-	- [About Posteo](https://posteo.de/en/site/about_posteo/)
-	- [Transparency Report](https://posteo.de/en/site/transparency_report)
+- [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report)
 
 ## Operating Systems
 **⚠️ You are the product:**
-- Windows
-	- [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
-- Chrome OS
-	- Owned by Google
-- Android (preinstalled)
-	- [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/)
+- Windows - [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/).
+- Chrome OS - Owned by Google.
+- Android (preinstalled) - [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/).
 
 **🔏 Alternatives:**
-- [Linux](http://www.wikiwand.com/en/Linux)
-	- Open source kernel
-	- Has many [distributions](https://learn-anything.xyz/operating-systems/unix/linux/distributions) you can use
-- iOS
-	- [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
+- [Linux](http://www.wikiwand.com/en/Linux) - Open source kernel.
+- iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
 - [Android with LineageOS](https://lineageos.org/about/)
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
 
 ## Browsers
 **⚠️ You are the product:**
-- Google Chrome
-	- Owned by Google
-- Edge Browser
-	- Owned by Microsoft
+- Google Chrome - Owned by Google.
+- Edge Browser - Owned by Microsoft.
 
 **🔏 Alternatives:**
-- [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)
-	- [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/)
-- [Brave Browser](https://www.brave.com/)
-	- [About Brave](https://www.brave.com/about/)
-- [Tor Browser](https://www.torproject.org/docs/tor-doc-win32)
-	- [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
+- [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
+- [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
+- [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
 
 ## AI Assistants
 **⚠️ You are the product:**
@@ -142,7 +107,7 @@ The list is separated into topics and each service or software stated gives supp
 - Apple Siri and HomePod
 
 **🔏 Alternatives:**
-- [Snips](https://snips.ai) - AI assistant platform
+- [Snips](https://snips.ai) - AI assistant platform.
 
 ## Related
 - [Prism Break](https://prism-break.org/en/all/)
