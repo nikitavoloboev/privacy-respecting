@@ -5,7 +5,7 @@ Ensure your pull request adheres to the following guidelines:
 - Each service/tool should either go under `You are the product` or `Alternatives`.
 - Use the following format: `[Name](link) - Description/Link.`
 - Where Description or Link arguments why the service/tool was put there.
-- Start the description with a capital and end with a full stop/period.
+- Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
 - New categories or improvements to the existing categorisation are welcome.
 - Check your spelling and grammar.
