@@ -1,7 +1,7 @@
 # Contribution Guidelines
 Ensure your pull request adheres to the following guidelines:
 - Search included services/tools before adding a new one, as yours may be a duplicate.
-- Put each servce/tool under the correct category.
+- Put each service/tool under the correct category.
 - Each service/tool should either go under `You are the product` or `Alternatives`.
 - Use the following format: `[Name](link) - Description/Link.`
 - Where Description or Link arguments why the service/tool was put there.
