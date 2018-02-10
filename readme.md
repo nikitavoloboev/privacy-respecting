@@ -1,7 +1,7 @@
 # Privacy Respecting
 > Curated List of Privacy Respecting Services and Software
 
-[Suggestions](https://github.com/nikitavoloboev/privacy-respecting/issues) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
+[Suggestions](https://github.com/nikitavoloboev/privacy-respecting/issues) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## Contents
 - [What?](#what?)
