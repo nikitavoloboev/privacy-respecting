@@ -1,9 +1,8 @@
 # Privacy Respecting
 > Curated List of Privacy Respecting Services and Software
 
-[Suggestions](https://github.com/nikitavoloboev/privacy-respecting/issues) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
+*Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
-## Contents
 - [What?](#what?)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
@@ -113,6 +112,9 @@ The list is separated into topics and each service or software stated gives supp
 - [List of best privacy practices](https://spideroak.com/infosec/)
 - [Various privacy tools you can use](https://www.privacytools.io/)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy)
+
+## Contributing
+See [contribution guidelines](contributing.md/#contribution-guidelines).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
