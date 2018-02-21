@@ -34,9 +34,7 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Social Networks
 **⚠️ You are the product:**
-- Facebook
-	- [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
-	- [Get your loved ones off Facebook.](http://www.salimvirani.com//facebook/)
+- Facebook - [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
 - Instagram - Owned by Facebook.
 
 **🔏 Alternatives:**
