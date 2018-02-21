@@ -52,6 +52,8 @@ The list is separated into topics and each service or software stated gives supp
 - [Threema](https://threema.ch/en/)
 - [Ring](https://ring.cx/)
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber.
+- [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
+- [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
 
 ## Cloud Storage
 **⚠️ You are the product:**
