@@ -112,6 +112,8 @@ The list is separated into topics and each service or software stated gives supp
 - [List of best privacy practices](https://spideroak.com/infosec/)
 - [Various privacy tools you can use](https://www.privacytools.io/)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy)
+- [Adversaries and Anonymity Systems: The Basics](https://www.ivpn.net/privacy-guides/adversaries-and-anonymity-systems-the-basics)
+- [Will a VPN Protect Me? Defining Your Threat Model](https://www.ivpn.net/privacy-guides/will-a-vpn-protect-me)
 
 ## Contributing
 See [contribution guidelines](contributing.md/#contribution-guidelines).
