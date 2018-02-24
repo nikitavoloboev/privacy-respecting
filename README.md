@@ -3,7 +3,7 @@
 
 *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
-- [What?](#what?)
+- [What?](#what)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
 - [Messengers](#messengers)
