@@ -9,6 +9,6 @@ Ensure your pull request adheres to the following guidelines:
 - Don't start the description with `A` or `An`.
 - New categories or improvements to the existing categorisation are welcome.
 - Check your spelling and grammar.
-- You can also add other related websites and repositories in the end.
+- You can also add related links and repositories in the end.
 
 Thank you for your [suggestions](../../edit/master/README.md)! 💜
