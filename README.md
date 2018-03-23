@@ -50,6 +50,7 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol).
+- [Riot](https://about.riot.im) - Secure decentralised chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/)
 - [Ring](https://ring.cx/)
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber.
