@@ -49,7 +49,7 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Messengers
 **⚠️ You are the product:**
-- WhatsApp - [WhatsApp feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages). Owned by Facebook.
+- WhatsApp - [WhatsApp feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages). Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol) but logs all the metadata around messages as well as sends all contacts to FB servers. Owned by Facebook.
 - Facebook Messenger - Owned by Facebook.
 
 **🔏 Alternatives:**
