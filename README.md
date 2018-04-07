@@ -114,7 +114,6 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
-- [Iridium Browser](https://iridiumbrowser.de/) - Google-free Chrome. [About Iridium](https://iridiumbrowser.de/about).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network)).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
 
