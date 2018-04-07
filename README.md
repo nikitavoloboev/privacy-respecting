@@ -128,6 +128,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Prism Break](https://prism-break.org/en/all/)
 - [List of best privacy practices](https://spideroak.com/infosec/)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy)
+- [Awesome self hosted](https://github.com/Kickball/awesome-selfhosted#readme)
 - [Adversaries and Anonymity Systems: The Basics](https://www.ivpn.net/privacy-guides/adversaries-and-anonymity-systems-the-basics)
 - [Will a VPN Protect Me? Defining Your Threat Model](https://www.ivpn.net/privacy-guides/will-a-vpn-protect-me)
 - [Bring Privacy Back](https://bringingprivacyback.com/)
