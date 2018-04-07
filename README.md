@@ -47,7 +47,7 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Messengers
 **⚠️ You are the product:**
-- WhatsApp - [WhatsApp design feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages).
+- WhatsApp - [WhatsApp feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages). Owned by Facebook.
 - Facebook Messenger - Owned by Facebook.
 
 **🔏 Alternatives:**
