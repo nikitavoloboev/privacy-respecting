@@ -57,7 +57,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber.
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
-- [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland)
+- [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
 
 ## Cloud Storage
 **⚠️ You are the product:**
