@@ -45,11 +45,10 @@ The list is separated into topics and each service or software stated gives supp
 - [Diaspora](https://joindiaspora.com/) - [What is Diaspora](https://diasporafoundation.org/).
 - [Steemit](https://steemit.com/) - [What is Steemit](https://www.wired.com/story/the-social-network-doling-out-millions-in-ephemeral-money/).
 - [Indieweb](https://indieweb.org/) - [Why run your own website?](https://indieweb.org/why)
-- [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
 
 ## Messengers
 **⚠️ You are the product:**
-- WhatsApp - [WhatsApp feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages). Owned by Facebook.
+- WhatsApp - [WhatsApp design feature means some encrypted messages could be read by third party](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages).
 - Facebook Messenger - Owned by Facebook.
 
 **🔏 Alternatives:**
@@ -57,7 +56,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
 - [Riot](https://about.riot.im) - Secure decentralised chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/)
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and dropbox alternative.
 - [Ring](https://ring.cx/)
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
@@ -74,8 +72,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing).
 - [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
 - [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Self hosted.
-- [ownCloud](https://owncloud.org/) - [ownCloud Features](https://owncloud.org/features/). Self hosted + encryption app available.
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted dropbox and GitHub alternative.
 
 ## Email
 **⚠️ You are the product:**
@@ -109,7 +105,6 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
-- [Iridium Browser](https://iridiumbrowser.de/) - Google-free Chrome. [About Iridium](https://iridiumbrowser.de/about).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
 
 ## AI Assistants
