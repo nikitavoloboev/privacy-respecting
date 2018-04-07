@@ -96,10 +96,11 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 - [Linux](http://www.wikiwand.com/en/Linux) - Open source kernel.
-- iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
-- [Android with LineageOS](https://lineageos.org/about/)
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
+- [Android with LineageOS](https://lineageos.org/about/)
+- iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
+- macOS - [Apple privacy](https://www.apple.com/lae/privacy/).
 
 ## Browsers
 **⚠️ You are the product:**
