@@ -56,6 +56,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
 - [Riot](https://about.riot.im) - Secure decentralised chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/)
+- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and dropbox alternative.
 - [Ring](https://ring.cx/)
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
@@ -72,6 +73,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing).
 - [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
 - [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Self hosted.
+- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted dropbox and GitHub alternative.
 
 ## Email
 **⚠️ You are the product:**
