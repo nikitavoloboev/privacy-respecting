@@ -139,6 +139,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Adversaries and Anonymity Systems: The Basics](https://www.ivpn.net/privacy-guides/adversaries-and-anonymity-systems-the-basics)
 - [Will a VPN Protect Me? Defining Your Threat Model](https://www.ivpn.net/privacy-guides/will-a-vpn-protect-me)
 - [Bring Privacy Back](https://bringingprivacyback.com/)
+- [Leaving the Cloud](https://wiki.debian.org/FreedomBox/LeavingTheCloud)
 - [Secure Email](https://github.com/OpenTechFund/secure-email#readme) - Overview of projects working on next-generation secure email.
 
 ## Contributing
