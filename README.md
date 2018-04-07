@@ -31,7 +31,7 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [DuckDuckGo](https://duckduckgo.com/)	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 - [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
-- [Searx](https://github.com/asciimoo/searx/) - [Why use Searx?](https://github.com/asciimoo/searx/).
+- [Searx](https://github.com/asciimoo/searx/) - [Why use Searx](https://github.com/asciimoo/searx/)?
 - [Qwant](https://www.qwant.com/) - [Qwant privacy poloicy](https://about.qwant.com/legal/privacy/).
 
 ## Social Networks
@@ -41,10 +41,10 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 - [Scuttlebutt](https://www.scuttlebutt.nz) - [Scuttlebutt principles](https://www.scuttlebutt.nz/principles.html).
-- [Mastodon](https://mastodon.social/about) - [What is mastodon.social?](https://mastodon.social/about/more).
-- [Diaspora](https://joindiaspora.com/) - [What is Diaspora](https://diasporafoundation.org/).
-- [Steemit](https://steemit.com/) - [What is Steemit](https://www.wired.com/story/the-social-network-doling-out-millions-in-ephemeral-money/).
-- [Indieweb](https://indieweb.org/) - [Why run your own website?](https://indieweb.org/why)
+- [Mastodon](https://mastodon.social/about) - [What is mastodon.social](https://mastodon.social/about/more)?
+- [Diaspora](https://joindiaspora.com/) - [What is Diaspora](https://diasporafoundation.org/)?
+- [Steemit](https://steemit.com/) - [What is Steemit](https://www.wired.com/story/the-social-network-doling-out-millions-in-ephemeral-money/)~
+- [Indieweb](https://indieweb.org/) - [Why run your own website](https://indieweb.org/why)?
 - [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
 
 ## Messengers
@@ -62,9 +62,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
 - [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
-- [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html)
+- [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html).
 - [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
-- [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto)
+- [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto).
 
 ## Cloud Storage
 **⚠️ You are the product:**
@@ -87,7 +87,7 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
 - [Tutanota](https://tutanota.com/)
-- [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report)
+- [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report).
 - [iRedMail](https://www.iredmail.org/) - Be your own email provider.
 - [CleanEmail](https://clean.email) – Manages your mailbox – group and organize, remove, label, and archive emails. [Full Privacy Policy](https://clean.email/privacy).
 
@@ -115,7 +115,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Iridium Browser](https://iridiumbrowser.de/) - Google-free Chrome. [About Iridium](https://iridiumbrowser.de/about).
-- [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
+- [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network)).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
 
 ## AI Assistants
