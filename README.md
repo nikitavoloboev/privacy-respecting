@@ -69,6 +69,7 @@ The list is separated into topics and each service or software stated gives supp
 ## Cloud Storage
 **⚠️ You are the product:**
 - Google Drive - Centralised and owned by Google.
+- OneDrive - Owned by Microsoft.
 
 **🔏 Alternatives:**
 - [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing).
@@ -80,6 +81,8 @@ The list is separated into topics and each service or software stated gives supp
 ## Email
 **⚠️ You are the product:**
 - Gmail - Owned by Google.
+- Outlook - Owned by Microsoft.
+- Yahoo - [Breach](https://en.wikipedia.org/wiki/Yahoo!_data_breaches)
 
 **🔏 Alternatives:**
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
@@ -100,6 +103,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Android with LineageOS](https://lineageos.org/about/)
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
+- [Android with Copperhead](https://copperhead.co/android/)
 
 ## Browsers
 **⚠️ You are the product:**
@@ -111,6 +115,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Iridium Browser](https://iridiumbrowser.de/) - Google-free Chrome. [About Iridium](https://iridiumbrowser.de/about).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
+- [Vivaldi](https://vivaldi.com)
 
 ## AI Assistants
 **⚠️ You are the product:**
