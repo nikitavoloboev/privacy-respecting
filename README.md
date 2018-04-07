@@ -52,11 +52,13 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol).
+- [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
 - [Riot](https://about.riot.im) - Secure decentralised chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/)
 - [Ring](https://ring.cx/)
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
+- [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html)
 - [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
 
