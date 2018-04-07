@@ -69,7 +69,6 @@ The list is separated into topics and each service or software stated gives supp
 ## Cloud Storage
 **⚠️ You are the product:**
 - Google Drive - Centralised and owned by Google.
-- Dropbox - Centralised and US based.
 
 **🔏 Alternatives:**
 - [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing).
@@ -118,11 +117,11 @@ The list is separated into topics and each service or software stated gives supp
 - Amazon Alexa
 - Google Home
 - IBM Watson
-- Apple Siri and HomePod
 
 **🔏 Alternatives:**
 - [Snips](https://snips.ai) - AI assistant platform.
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
+- Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
 
 ## Related
 - [Privacy tools](https://www.privacytools.io/)
