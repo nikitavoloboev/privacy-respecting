@@ -31,7 +31,7 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [DuckDuckGo](https://duckduckgo.com/)	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 - [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
-- [Searx](https://github.com/asciimoo/searx/) - [Why use Searx](https://github.com/asciimoo/searx/)?
+- [Searx](https://github.com/asciimoo/searx/) - [Why use Searx?](https://github.com/asciimoo/searx/)
 - [Qwant](https://www.qwant.com/) - [Qwant privacy poloicy](https://about.qwant.com/legal/privacy/).
 
 ## Social Networks
@@ -41,10 +41,10 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 - [Scuttlebutt](https://www.scuttlebutt.nz) - [Scuttlebutt principles](https://www.scuttlebutt.nz/principles.html).
-- [Mastodon](https://mastodon.social/about) - [What is mastodon.social](https://mastodon.social/about/more)?
-- [Diaspora](https://joindiaspora.com/) - [What is Diaspora](https://diasporafoundation.org/)?
-- [Steemit](https://steemit.com/) - [What is Steemit](https://www.wired.com/story/the-social-network-doling-out-millions-in-ephemeral-money/)~
-- [Indieweb](https://indieweb.org/) - [Why run your own website](https://indieweb.org/why)?
+- [Mastodon](https://mastodon.social/about) - [What is mastodon.social?](https://mastodon.social/about/more)
+- [Diaspora](https://joindiaspora.com/) - [What is Diaspora?](https://diasporafoundation.org/)
+- [Steemit](https://steemit.com/) - [What is Steemit?](https://www.wired.com/story/the-social-network-doling-out-millions-in-ephemeral-money/)
+- [Indieweb](https://indieweb.org/) - [Why run your own website?](https://indieweb.org/why)
 - [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
 
 ## Messengers
