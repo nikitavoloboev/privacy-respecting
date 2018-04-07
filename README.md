@@ -32,7 +32,7 @@ The list is separated into topics and each service or software stated gives supp
 - [DuckDuckGo](https://duckduckgo.com/)	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 - [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
 - [Searx](https://github.com/asciimoo/searx/) - [Why use Searx?](https://asciimoo.github.io/searx/)
-- [Qwant](https://www.qwant.com/) - [Qwant privacy poloicy](https://about.qwant.com/legal/privacy/).
+- [Qwant](https://www.qwant.com/) - [Qwant privacy policy](https://about.qwant.com/legal/privacy/).
 
 ## Social Networks
 **⚠️ You are the product:**
@@ -116,6 +116,7 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
+- [Iridium Browser](https://iridiumbrowser.de/) - Google-free Chrome. [About Iridium](https://iridiumbrowser.de/about).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network)).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
 
