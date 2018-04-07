@@ -31,7 +31,7 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [DuckDuckGo](https://duckduckgo.com/)	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 - [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
-- [Searx](https://github.com/asciimoo/searx/) - [Why use Searx?](https://github.com/asciimoo/searx/)
+- [Searx](https://github.com/asciimoo/searx/) - [Why use Searx?](https://asciimoo.github.io/searx/)
 - [Qwant](https://www.qwant.com/) - [Qwant privacy poloicy](https://about.qwant.com/legal/privacy/).
 
 ## Social Networks
