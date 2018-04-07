@@ -93,6 +93,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report).
 - [iRedMail](https://www.iredmail.org/) - Be your own email provider.
 - [CleanEmail](https://clean.email) – Manages your mailbox – group and organize, remove, label, and archive emails. [Full Privacy Policy](https://clean.email/privacy).
+- [Fastmail](https://fastmail.com) - Email, calendars, and contacts.
 
 ## Operating Systems
 **⚠️ You are the product:**
