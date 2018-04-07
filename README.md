@@ -75,6 +75,7 @@ The list is separated into topics and each service or software stated gives supp
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
 - [Tutanota](https://tutanota.com/)
 - [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report)
+- [CleanEmail](https://clean.email) – Manages your mailbox – group and organize, remove, label, and archive emails. [Full Privacy Policy](https://clean.email/privacy).
 
 ## Operating Systems
 **⚠️ You are the product:**
