@@ -77,7 +77,7 @@ The list is separated into topics and each service or software stated gives supp
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
 - [Tutanota](https://tutanota.com/)
 - [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report)
-- [iRedMail](https://www.iredmail.org/) - be your own email provider
+- [iRedMail](https://www.iredmail.org/) - Be your own email provider.
 
 ## Operating Systems
 **⚠️ You are the product:**
@@ -127,4 +127,4 @@ See [contribution guidelines](CONTRIBUTING.md/#readme).
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Nikita Voloboev](https://www.nikitavoloboev.xyz) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Nikita Voloboev](https://nikitavoloboev.xyz) has waived all copyright and related or neighboring rights to this work.
