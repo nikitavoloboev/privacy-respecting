@@ -69,6 +69,7 @@ The list is separated into topics and each service or software stated gives supp
 ## Cloud Storage
 **⚠️ You are the product:**
 - Google Drive - Centralised and owned by Google.
+- OneDrive - Owned by Microsoft.
 
 **🔏 Alternatives:**
 - [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing).
@@ -80,6 +81,8 @@ The list is separated into topics and each service or software stated gives supp
 ## Email
 **⚠️ You are the product:**
 - Gmail - Owned by Google.
+- Outlook - Owned by Microsoft.
+- Yahoo - [Multiple data breaches](https://en.wikipedia.org/wiki/Yahoo!_data_breaches).
 
 **🔏 Alternatives:**
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
@@ -98,8 +101,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Linux](http://www.wikiwand.com/en/Linux) - Open source kernel.
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
-- [Android with LineageOS](https://lineageos.org/about/)
 - iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
+- [Android with LineageOS](https://lineageos.org/about/)
+- [Android with Copperhead](https://copperhead.co/android/)
 - macOS - [Apple privacy](https://www.apple.com/lae/privacy/).
 
 ## Browsers
@@ -112,6 +116,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Iridium Browser](https://iridiumbrowser.de/) - Google-free Chrome. [About Iridium](https://iridiumbrowser.de/about).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network))
+- [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
 
 ## AI Assistants
 **⚠️ You are the product:**
