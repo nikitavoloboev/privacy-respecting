@@ -42,6 +42,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Scuttlebutt](https://www.scuttlebutt.nz) - [Scuttlebutt principles](https://www.scuttlebutt.nz/principles.html).
 - [Mastodon](https://mastodon.social/about) - [What is mastodon.social?](https://mastodon.social/about/more).
 - [Diaspora](https://joindiaspora.com/) - [What is Diaspora](https://diasporafoundation.org/).
+- [Indieweb](https://indieweb.org/) - [Why run your own website?](https://indieweb.org/why)
 
 ## Messengers
 **⚠️ You are the product:**
@@ -53,9 +54,10 @@ The list is separated into topics and each service or software stated gives supp
 - [Riot](https://about.riot.im) - Secure decentralised chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/)
 - [Ring](https://ring.cx/)
-- [Conversations](https://conversations.im/) - Built on XMPP/Jabber.
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
+- [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html)
+- [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
 
 ## Cloud Storage
 **⚠️ You are the product:**
@@ -75,6 +77,7 @@ The list is separated into topics and each service or software stated gives supp
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
 - [Tutanota](https://tutanota.com/)
 - [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report)
+- [iRedMail](https://www.iredmail.org/) - be your own email provider
 
 ## Operating Systems
 **⚠️ You are the product:**
