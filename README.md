@@ -78,6 +78,7 @@ The list is separated into topics and each service or software stated gives supp
 - [ownCloud](https://owncloud.org/) - [ownCloud Features](https://owncloud.org/features/). Self hosted + encryption app available.
 - [Keybase](https://keybase.io/) - Open-source end-to-end encrypted dropbox and GitHub alternative.
 - [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
+- [Mega](https://mega.nz) - [Privacy Company](https://mega.nz/privacycompany) - Open-source end-to-end encrypted.
 
 ## Email
 **⚠️ You are the product:**
