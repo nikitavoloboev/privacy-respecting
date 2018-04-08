@@ -52,7 +52,6 @@ The list is separated into topics and each service or software stated gives supp
 **⚠️ You are the product:**
 - WhatsApp - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol) but [logs all the metadata around messages](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages) as well as sends all contacts to FB servers. Owned by Facebook.
 - Facebook Messenger - Owned by Facebook.
-- [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). Group channels cannot be E2E encrypted, and private chats default to non-E2E. They have demonstrated resistance to authorities, however. Telegram is a for-profit company.
 
 **🔏 Alternatives:**
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol).
@@ -62,6 +61,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and dropbox alternative.
 - [Ring](https://ring.cx/)
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
+- [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and private chats default to non-E2E. Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
 - [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html).
