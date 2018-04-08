@@ -50,7 +50,7 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Messengers
 **⚠️ You are the product:**
-- WhatsApp - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol) but [logs all the metadata around messages](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages) as well as sends all contacts to FB servers. Owned by Facebook.
+- WhatsApp - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol) thus chats are E2E encrypted. However it sends entire user's contact books to FB servers. Owned by Facebook.
 - Facebook Messenger - Owned by Facebook.
 
 **🔏 Alternatives:**
