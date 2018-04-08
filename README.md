@@ -52,6 +52,7 @@ The list is separated into topics and each service or software stated gives supp
 **⚠️ You are the product:**
 - WhatsApp - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol) but [logs all the metadata around messages](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages) as well as sends all contacts to FB servers. Owned by Facebook.
 - Facebook Messenger - Owned by Facebook.
+- [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). Group channels cannot be e2e encrypted, and private chats default to non-e2e. Therefore, Telegram has access to most discussions in plain text. They have demonstrated resistance to authorities, however. Telegram is a for-profit company, and using the software is free, so it's fathomable that users are the product.
 
 **🔏 Alternatives:**
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol).
@@ -65,7 +66,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html).
 - [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
-- [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto).
 
 ## Cloud Storage
 **⚠️ You are the product:**
