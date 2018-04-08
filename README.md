@@ -149,6 +149,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Bring Privacy Back](https://bringingprivacyback.com/)
 - [Leaving the Cloud](https://wiki.debian.org/FreedomBox/LeavingTheCloud)
 - [Secure Email](https://github.com/OpenTechFund/secure-email#readme) - Overview of projects working on next-generation secure email.
+- [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. Open Source
 
 ## Contributing
 See [contribution guidelines](CONTRIBUTING.md/#readme).
