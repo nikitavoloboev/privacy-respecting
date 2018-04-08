@@ -105,12 +105,12 @@ The list is separated into topics and each service or software stated gives supp
 - Windows - [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/).
 - Chrome OS - Owned by Google.
 - Android (preinstalled) - [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/).
+- iOS - [iOS, The Future Of macOS, Freedom, Security And Privacy In An Increasingly Hostile Global Environment](https://gist.github.com/desantis/5728d5536b6dfe37e781c0a4a0f32e54)
 
 **🔏 Alternatives:**
 - [Linux](http://www.wikiwand.com/en/Linux) - Open source kernel.
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
-- iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
 - [Android with LineageOS](https://lineageos.org/about/)
 - [Android with Copperhead](https://copperhead.co/android/)
 - macOS - [Apple privacy](https://www.apple.com/lae/privacy/).
