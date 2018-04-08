@@ -152,6 +152,9 @@ The list is separated into topics and each service or software stated gives supp
 ## Contributing
 See [contribution guidelines](CONTRIBUTING.md/#readme).
 
+## Thanks
+Big thanks to [redmusic](https://github.com/redmusic27) for the awesome logo.
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
