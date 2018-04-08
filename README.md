@@ -47,6 +47,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Indieweb](https://indieweb.org/) - [Why run your own website?](https://indieweb.org/why)
 - [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
 - [Chttr](https://chttr.co/) - [Politically unbiased, privacy respecting social network](https://chttr.co/about).
+- [Elgg](https://elgg.org/) - [What is Elgg?](http://learn.elgg.org/en/stable/).
 
 ## Messengers
 **⚠️ You are the product:**
