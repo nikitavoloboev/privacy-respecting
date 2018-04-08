@@ -80,6 +80,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Keybase](https://keybase.io/) - Open-source end-to-end encrypted dropbox and GitHub alternative.
 - [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
 - [Mega](https://mega.nz) - [Privacy Company](https://mega.nz/privacycompany) - Open-source end-to-end encrypted.
+- [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html) (storage providers cannot read stored data)
+  - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids
+  - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services
 
 ## Email
 **⚠️ You are the product:**
