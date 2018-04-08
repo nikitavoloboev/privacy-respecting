@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/GjmtAPi.png" alt="bDialog" height="200px"></p>
+<p align="center"><img src="https://i.imgur.com/jFRB8U4.png" alt="bDialog" height="200px"></p>
 
 # Privacy Respecting
 > Curated List of Privacy Respecting Services and Software
