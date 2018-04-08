@@ -1,3 +1,5 @@
+<p align="center"><img src="Logo/HORIZONTAL-BLACK.png" alt="bDialog" height="300px"></p>
+
 # Privacy Respecting
 > Curated List of Privacy Respecting Services and Software
 
