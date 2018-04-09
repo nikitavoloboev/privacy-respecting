@@ -66,6 +66,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
+- [Tox](https://github.com/TokTok/c-toxcore) - Peer-to-peer serverless IM platform.
 - [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html).
 - [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
@@ -152,6 +153,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Leaving the Cloud](https://wiki.debian.org/FreedomBox/LeavingTheCloud)
 - [Secure Email](https://github.com/OpenTechFund/secure-email#readme) - Overview of projects working on next-generation secure email.
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. Open Source
+- [Bitmessage](https://bitmessage.org/) - P2P Based email-like platform. Uses proof-of-work to secure communications.
 
 ## Contributing
 See [contribution guidelines](CONTRIBUTING.md/#readme).
