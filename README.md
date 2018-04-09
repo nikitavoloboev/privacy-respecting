@@ -100,6 +100,7 @@ The list is separated into topics and each service or software stated gives supp
 - [iRedMail](https://www.iredmail.org/) - Be your own email provider.
 - [CleanEmail](https://clean.email) – Manages your mailbox – group and organize, remove, label, and archive emails. [Full Privacy Policy](https://clean.email/privacy).
 - [Fastmail](https://fastmail.com) - Email, calendars, and contacts. [Privacy Policy](https://www.fastmail.com/about/privacy.html)
+- [Kolab Now](https://kolabnow.com) - Online service providing personal [Kolab Groupware](https://kolabenterprise.com) on desired level. [Privacy Statement](https://kolabnow.com/privacy).
 
 ## Operating Systems
 **⚠️ You are the product:**
