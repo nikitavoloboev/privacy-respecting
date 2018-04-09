@@ -115,6 +115,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Android with LineageOS](https://lineageos.org/about/)
 - [Android with Copperhead](https://copperhead.co/android/)
 - macOS - [Apple privacy](https://www.apple.com/lae/privacy/).
+- [FreeBSD](https://www.freebsd.org) - [Privacy Policy](https://www.freebsd.org/privacy.html).
 
 ## Browsers
 **⚠️ You are the product:**
