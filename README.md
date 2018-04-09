@@ -44,13 +44,13 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 - [Scuttlebutt](https://www.scuttlebutt.nz) - [Scuttlebutt principles](https://www.scuttlebutt.nz/principles.html).
-- [Mastodon](https://joinmastodon.org/) - [What is Mastodon?](https://www.youtube.com/watch?v=IPSbNdBmWKE). [Mastodon instances](https://instances.social/).
+- [Mastodon](https://joinmastodon.org/) - [What is Mastodon?](https://www.youtube.com/watch?v=IPSbNdBmWKE) [Mastodon instances](https://instances.social/).
 - [Diaspora](https://joindiaspora.com/) - [What is Diaspora?](https://diasporafoundation.org/)
 - [Steemit](https://steemit.com/) - [What is Steemit?](https://www.wired.com/story/the-social-network-doling-out-millions-in-ephemeral-money/)
 - [Indieweb](https://indieweb.org/) - [Why run your own website?](https://indieweb.org/why)
 - [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
 - [Chttr](https://chttr.co/) - [Politically unbiased, privacy respecting social network](https://chttr.co/about).
-- [Pleroma](https://pleroma.social/) - [Pleroma instances](http://distsn.org/pleroma-instances.html)
+- [Pleroma](https://pleroma.social/) - [Pleroma instances](http://distsn.org/pleroma-instances.html).
 
 ## Messengers
 **⚠️ You are the product:**
@@ -61,9 +61,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol).
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
 - [Riot](https://about.riot.im) - Secure decentralised chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
-- [Threema](https://threema.ch/en/)
+- [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
 - [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and dropbox alternative.
-- [Ring](https://ring.cx/)
+- [Ring](https://ring.cx/) - [About Ring](https://ring.cx/en/about/practical).
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
@@ -85,9 +85,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Keybase](https://keybase.io/) - Open-source end-to-end encrypted dropbox and GitHub alternative.
 - [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
 - [Mega](https://mega.nz) - [Privacy Company](https://mega.nz/privacycompany) - Open-source end-to-end encrypted.
-- [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html) (storage providers cannot read stored data)
-  - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids
-  - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services
+- [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html). Storage providers cannot read stored data.
+  - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids.
+  - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services.
 
 ## Email
 **⚠️ You are the product:**
@@ -97,11 +97,11 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
-- [Tutanota](https://tutanota.com/)
+- [Tutanota](https://tutanota.com/) - [FAQ](https://tutanota.uservoice.com/knowledgebase/topics/69730-english).
 - [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report).
 - [iRedMail](https://www.iredmail.org/) - Be your own email provider.
 - [CleanEmail](https://clean.email) – Manages your mailbox – group and organize, remove, label, and archive emails. [Full Privacy Policy](https://clean.email/privacy).
-- [Fastmail](https://fastmail.com) - Email, calendars, and contacts. [Privacy Policy](https://www.fastmail.com/about/privacy.html)
+- [Fastmail](https://fastmail.com) - Email, calendars, and contacts. [Privacy Policy](https://www.fastmail.com/about/privacy.html).
 - [Kolab Now](https://kolabnow.com) - Online service providing personal [Kolab Groupware](https://kolabenterprise.com) on desired level. [Privacy Statement](https://kolabnow.com/privacy).
 
 ## Operating Systems
@@ -136,13 +136,14 @@ The list is separated into topics and each service or software stated gives supp
 - YouTube - Owned by Google.
 
 **🔏 Alternatives:**
-- [Peertube](https://joinpeertube.org) - [Peertube instances](https://instances.joinpeertube.org)
+- [DTube](https://d.tube/) - [What is DTube?](https://about.d.tube/)
+- [Peertube](https://joinpeertube.org) - [Peertube instances](https://instances.joinpeertube.org).
 
 ## AI Assistants
 **⚠️ You are the product:**
-- Amazon Alexa
-- Google Home
-- IBM Watson
+- Amazon Alexa - Owned by Amazon.
+- Google Home - Owned by Google.
+- IBM Watson - Owned by IBM.
 
 **🔏 Alternatives:**
 - [Snips](https://snips.ai) - AI assistant platform.
