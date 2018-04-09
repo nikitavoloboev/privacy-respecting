@@ -14,6 +14,7 @@
 - [Email](#email)
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
+- [Video Sharing](#video-sharing)
 - [AI Assistants](#ai-assistants)
 - [Related](#related)
 
@@ -129,6 +130,13 @@ The list is separated into topics and each service or software stated gives supp
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network)).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
+
+## Video Sharing
+**⚠️ You are the product:**
+- YouTube - Owned by Google.
+
+**🔏 Alternatives:**
+- [Peertube](https://joinpeertube.org) - [Peertube instances](https://instances.joinpeertube.org)
 
 ## AI Assistants
 **⚠️ You are the product:**
