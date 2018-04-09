@@ -40,6 +40,7 @@ The list is separated into topics and each service or software stated gives supp
 **⚠️ You are the product:**
 - Facebook - [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
 - Instagram - Owned by Facebook.
+- Youtube - Owned by Google.
 
 **🔏 Alternatives:**
 - [Scuttlebutt](https://www.scuttlebutt.nz) - [Scuttlebutt principles](https://www.scuttlebutt.nz/principles.html).
@@ -50,6 +51,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
 - [Chttr](https://chttr.co/) - [Politically unbiased, privacy respecting social network](https://chttr.co/about).
 - [Pleroma](https://pleroma.social/) - [Pleroma instances](http://distsn.org/pleroma-instances.html)
+- [Peertube](https://joinpeertube.org) - [Peertube instances](https://instances.joinpeertube.org)
 
 ## Messengers
 **⚠️ You are the product:**
