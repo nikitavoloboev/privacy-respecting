@@ -72,6 +72,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html).
 - [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
 - [Wickr](https://www.wickr.com/) - Encrypted Ephemeral Platform Trusted By Millions Worldwide.
+- [Semaphor](https://spideroak.com/) - Encrypted, decentralized authority team chat and file sharing.
 
 ## Cloud Storage
 **⚠️ You are the product:**
@@ -86,6 +87,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Keybase](https://keybase.io/) - Open-source end-to-end encrypted dropbox and GitHub alternative.
 - [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
 - [Mega](https://mega.nz) - [Privacy Company](https://mega.nz/privacycompany) - Open-source end-to-end encrypted.
+- [SpiderOak ONE](https://spideroak.com) - End-to-end no-knowledge encryption, [Edward Snowden endorsed!](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak)
 - [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html). Storage providers cannot read stored data.
   - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids.
   - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services.
