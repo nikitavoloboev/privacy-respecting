@@ -154,7 +154,7 @@ The list is separated into topics and each service or software stated gives supp
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
 
 ## Related
-- [Privacy tools](https://www.privacytools.io/)
+- [Privacy Tools](https://www.privacytools.io/) - Encryption against global mass surveillance. [(GitHub)](https://github.com/privacytoolsIO/privacytools.io)
 - [PRISM Break](https://prism-break.org/en/all/) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora. [(GitHub)](https://github.com/nylira/prism-break)
 - [List of best privacy practices](https://spideroak.com/infosec/)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy)
