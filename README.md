@@ -167,6 +167,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. Open Source
 - [Bitmessage](https://bitmessage.org/) - P2P Based email-like platform. Uses proof-of-work to secure communications.
 - [Rebooting the Web of Trust](https://github.com/WebOfTrustInfo) - Research on building the next generation of Web-Of-Trust based identity systems.
+- [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech#readme) - Improve society using this list of humane tech projects.
 
 ## Contributing
 See [contribution guidelines](CONTRIBUTING.md/#readme).
