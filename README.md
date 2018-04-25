@@ -164,6 +164,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Bring Privacy Back](https://bringingprivacyback.com/)
 - [Leaving the Cloud](https://wiki.debian.org/FreedomBox/LeavingTheCloud)
 - [Secure Email](https://github.com/OpenTechFund/secure-email#readme) - Overview of projects working on next-generation secure email.
+- [Terms of Service Didn't Read](https://tosdr.org/) - User rights initiative to rate and label website terms & privacy policies.
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. Open Source
 - [Bitmessage](https://bitmessage.org/) - P2P Based email-like platform. Uses proof-of-work to secure communications.
 - [Rebooting the Web of Trust](https://github.com/WebOfTrustInfo) - Research on building the next generation of Web-Of-Trust based identity systems.
