@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/jFRB8U4.png" alt="bDialog" height="200px"></p>
 
-# Privacy Respecting
+# Privacy Respecting [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 > Curated List of Privacy Respecting Services and Software
 
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
