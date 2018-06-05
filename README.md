@@ -153,6 +153,12 @@ The list is separated into topics and each service or software stated gives supp
 - [Snips](https://snips.ai) - AI assistant platform.
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
+## Code Hosting
+**⚠️ You are the product:**
+- [GitHub](https://github.com) - Owned by Microsoft
+
+**🔏 Alternatives:**
+- GitLab - [GitLab Privacy](https://gitlab.com)
 
 ## Related
 - [Privacy Tools](https://www.privacytools.io/) - Encryption against global mass surveillance. [(GitHub)](https://github.com/privacytoolsIO/privacytools.io)
