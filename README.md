@@ -156,7 +156,7 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Related
 - [Privacy Tools](https://www.privacytools.io/) - Encryption against global mass surveillance. [(GitHub)](https://github.com/privacytoolsIO/privacytools.io)
-- [PRISM Break](https://prism-break.org/en/all/) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora. [(GitHub)](https://github.com/nylira/prism-break)
+- [PRISM Break](https://prism-break.org/en/all/) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora. [(GitLab)](https://gitlab.com/prism-break/prism-break)
 - [List of best privacy practices](https://spideroak.com/infosec/)
 - [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy)
 - [Awesome self hosted](https://github.com/Kickball/awesome-selfhosted#readme)
