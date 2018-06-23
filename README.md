@@ -60,9 +60,9 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol).
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
-- [Riot](https://about.riot.im) - Secure decentralised chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
+- [Riot](https://about.riot.im) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and dropbox alternative.
+- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and Dropbox alternative.
 - [Ring](https://ring.cx/) - [About Ring](https://ring.cx/en/about/practical).
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
@@ -84,7 +84,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
 - [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Self hosted + encryption app available.
 - [ownCloud](https://owncloud.org/) - [ownCloud Features](https://owncloud.org/features/). Self hosted + encryption app available.
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted dropbox and GitHub alternative.
+- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted Dropbox and GitHub alternative.
 - [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
 - [Mega](https://mega.nz) - [Privacy Company](https://mega.nz/privacycompany) - Open-source end-to-end encrypted.
 - [SpiderOak ONE](https://spideroak.com) - End-to-end no-knowledge encryption, [Edward Snowden endorsed!](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak)
