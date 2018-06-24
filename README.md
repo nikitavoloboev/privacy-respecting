@@ -76,7 +76,7 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Cloud Storage
 **⚠️ You are the product:**
-- Google Drive - Centralised and owned by Google.
+- Google Drive - Centralized and owned by Google.
 - OneDrive - Owned by Microsoft.
 
 **🔏 Alternatives:**
@@ -174,7 +174,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech#readme) - Improve society using this list of humane tech projects.
 - [Security in a Box](https://securityinabox.org/en/) - Tutorials on how to stay private online and install privacy-preserving apps.
 - [My Shadow](https://myshadow.org/resources) - FOSS alternative apps that respect your privacy.
-- [EFF SDD](https://ssd.eff.org/) - EFF's surveillence self-defense guide.
+- [EFF SDD](https://ssd.eff.org/) - EFF's surveillance self-defense guide.
 - [Restore privacy](https://restoreprivacy.com/google-alternatives/) - Privacy-preserving alternatives to popular Google products.
 - [EPIC privacy tools](https://www.epic.org/privacy/tools.html) - EPIC's collection of privacy-preserving tools.
 - [Secured.fyi](https://secured.fyi/) - A ranking of paid and free services based on security and privacy attributes.
