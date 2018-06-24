@@ -133,6 +133,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network)).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
+- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
 
 ## Video Sharing
 **⚠️ You are the product:**
@@ -171,6 +172,11 @@ The list is separated into topics and each service or software stated gives supp
 - [Bitmessage](https://bitmessage.org/) - P2P Based email-like platform. Uses proof-of-work to secure communications.
 - [Rebooting the Web of Trust](https://github.com/WebOfTrustInfo) - Research on building the next generation of Web-Of-Trust based identity systems.
 - [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech#readme) - Improve society using this list of humane tech projects.
+- [Security in a Box](https://securityinabox.org/en/) - Tutorials on how to stay private online and install privacy-preserving apps.
+- [My Shadow](https://myshadow.org/resources) - FOSS alternative apps that respect your privacy.
+- [EFF SDD](https://ssd.eff.org/) - EFF's surveillence self-defense guide.
+- [Restore privacy](https://restoreprivacy.com/google-alternatives/) - Privacy-preserving alternatives to popular Google products.
+- [EPIC privacy tools](https://www.epic.org/privacy/tools.html) - EPIC's collection of privacy-preserving tools.
 
 ## Contributing
 See [contribution guidelines](CONTRIBUTING.md/#readme).
