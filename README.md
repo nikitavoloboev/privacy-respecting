@@ -34,7 +34,7 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 - [DuckDuckGo](https://duckduckgo.com/)	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 - [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
-- [Searx](https://github.com/asciimoo/searx/) - [Why use Searx?](https://asciimoo.github.io/searx/)
+- [Searx](https://github.com/asciimoo/searx#readme) - [Why use Searx?](https://asciimoo.github.io/searx/)
 - [Qwant](https://www.qwant.com/) - [Qwant privacy policy](https://about.qwant.com/legal/privacy/).
 
 ## Social Networks
@@ -67,7 +67,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
-- [Tox](https://github.com/TokTok/c-toxcore) - Peer-to-peer serverless IM platform.
+- [Tox](https://github.com/TokTok/c-toxcore#readme) - Peer-to-peer serverless IM platform.
 - [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html).
 - [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
@@ -80,7 +80,7 @@ The list is separated into topics and each service or software stated gives supp
 - OneDrive - Owned by Microsoft.
 
 **🔏 Alternatives:**
-- [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing).
+- [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing#readme).
 - [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
 - [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Self hosted + encryption app available.
 - [ownCloud](https://owncloud.org/) - [ownCloud Features](https://owncloud.org/features/). Self hosted + encryption app available.
@@ -133,7 +133,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network)).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
-- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
+- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#readme) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
 
 ## Video Sharing
 **⚠️ You are the product:**
@@ -156,11 +156,11 @@ The list is separated into topics and each service or software stated gives supp
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
 
 ## Related
-- [Privacy Tools](https://www.privacytools.io/) - Encryption against global mass surveillance. [(GitHub)](https://github.com/privacytoolsIO/privacytools.io)
+- [Privacy Tools](https://www.privacytools.io/) - Encryption against global mass surveillance. [(GitHub)](https://github.com/privacytoolsIO/privacytools.io#readme)
 - [Digital Privacy Tips](https://bluz71.github.io/2018/06/20/digital-privacy-tips.html)
 - [PRISM Break](https://prism-break.org/en/all/) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora. [(GitLab)](https://gitlab.com/prism-break/prism-break)
 - [List of best privacy practices](https://spideroak.com/infosec/)
-- [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy)
+- [Privacy awesome list](https://github.com/KevinColemanInc/awesome-privacy#readme)
 - [Awesome self hosted](https://github.com/Kickball/awesome-selfhosted#readme)
 - [Self Hosted Subreddit](https://www.reddit.com/r/selfhosted/)
 - [Adversaries and Anonymity Systems: The Basics](https://www.ivpn.net/privacy-guides/adversaries-and-anonymity-systems-the-basics)
@@ -171,7 +171,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Terms of Service Didn't Read](https://tosdr.org/) - User rights initiative to rate and label website terms & privacy policies.
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. Open Source
 - [Bitmessage](https://bitmessage.org/) - P2P Based email-like platform. Uses proof-of-work to secure communications.
-- [Rebooting the Web of Trust](https://github.com/WebOfTrustInfo) - Research on building the next generation of Web-Of-Trust based identity systems.
+- [Rebooting the Web of Trust](https://github.com/WebOfTrustInfo#readme) - Research on building the next generation of Web-Of-Trust based identity systems.
 - [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech#readme) - Improve society using this list of humane tech projects.
 - [Security in a Box](https://securityinabox.org/en/) - Tutorials on how to stay private online and install privacy-preserving apps.
 - [My Shadow](https://myshadow.org/resources) - FOSS alternative apps that respect your privacy.
