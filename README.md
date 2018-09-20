@@ -123,6 +123,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Android with /e/](https://e.foundation) - Fully ungoogled mobile phone OS. [Privacy Facts](https://e.foundation/privacy-facts/)
 - macOS - [Apple privacy](https://www.apple.com/lae/privacy/).
 - [FreeBSD](https://www.freebsd.org) - [Privacy Policy](https://www.freebsd.org/privacy.html).
+- [PureOS](https://pureos.net/) - Secure and freedom respecting. Soon also on smartphone: [Librem5](https://puri.sm/shop/librem-5/).
 
 ## Browsers
 **⚠️ You are the product:**
