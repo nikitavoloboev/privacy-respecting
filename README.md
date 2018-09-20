@@ -120,6 +120,7 @@ The list is separated into topics and each service or software stated gives supp
 - iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
 - [Android with LineageOS](https://lineageos.org/about/)
 - [Android with Copperhead](https://copperhead.co/android/)
+- [Android with /e/](https://e.foundation) - Fully ungoogled mobile phone OS. [Privacy Facts](https://e.foundation/privacy-facts/)
 - macOS - [Apple privacy](https://www.apple.com/lae/privacy/).
 - [FreeBSD](https://www.freebsd.org) - [Privacy Policy](https://www.freebsd.org/privacy.html).
 
