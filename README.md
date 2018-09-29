@@ -1,11 +1,13 @@
 <p align="center"><img src="https://i.imgur.com/jFRB8U4.png" alt="bDialog" height="200px"></p>
 
 # Privacy Respecting [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+
 > Curated List of Privacy Respecting Services and Software
 
-*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
+_Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
 
 ##### Contents
+
 - [What?](#what)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
@@ -19,6 +21,7 @@
 - [Related](#related)
 
 ## What?
+
 This is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
 
 For reasons why you may want to care about this, you can read [this article](https://medium.com/@nikitavoloboev/like-a-dog-on-a-leash-c0cdb8839079).
@@ -26,23 +29,29 @@ For reasons why you may want to care about this, you can read [this article](htt
 The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
 
 ## Search Engines
+
 **⚠️ You are the product:**
+
 - Google - [By 2030, You’ll Be Living in a World That’s Run by Google](https://futurism.com/by-2030-youll-be-living-in-a-world-thats-run-by-google/).
 - Bing - Owned by Microsoft.
 - Yandex - Russia's version of Google.
 
 **🔏 Alternatives:**
-- [DuckDuckGo](https://duckduckgo.com/)	- [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
+
+- [DuckDuckGo](https://duckduckgo.com/) - [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 - [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
 - [Searx](https://github.com/asciimoo/searx#readme) - [Why use Searx?](https://asciimoo.github.io/searx/)
 - [Qwant](https://www.qwant.com/) - [Qwant privacy policy](https://about.qwant.com/legal/privacy/).
 
 ## Social Networks
+
 **⚠️ You are the product:**
+
 - Facebook - [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
 - Instagram - Owned by Facebook.
 
 **🔏 Alternatives:**
+
 - [Scuttlebutt](https://www.scuttlebutt.nz) - [Scuttlebutt principles](https://www.scuttlebutt.nz/principles.html).
 - [Mastodon](https://joinmastodon.org/) - [What is Mastodon?](https://www.youtube.com/watch?v=IPSbNdBmWKE) [Mastodon instances](https://instances.social/).
 - [Diaspora](https://joindiaspora.com/) - [What is Diaspora?](https://diasporafoundation.org/)
@@ -53,11 +62,14 @@ The list is separated into topics and each service or software stated gives supp
 - [Pleroma](https://pleroma.social/) - [Pleroma instances](http://distsn.org/pleroma-instances.html).
 
 ## Messengers
+
 **⚠️ You are the product:**
+
 - WhatsApp - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol) thus chats are E2E encrypted. However it sends entire user's contact books to FB servers. Owned by Facebook.
 - Facebook Messenger - Owned by Facebook.
 
 **🔏 Alternatives:**
+
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol).
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
 - [Riot](https://about.riot.im) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
@@ -75,11 +87,14 @@ The list is separated into topics and each service or software stated gives supp
 - [Semaphor](https://spideroak.com/) - Encrypted, decentralized authority team chat and file sharing.
 
 ## Cloud Storage
+
 **⚠️ You are the product:**
+
 - Google Drive - Centralized and owned by Google.
 - OneDrive - Owned by Microsoft.
 
 **🔏 Alternatives:**
+
 - [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing#readme).
 - [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
 - [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Self hosted + encryption app available.
@@ -93,12 +108,15 @@ The list is separated into topics and each service or software stated gives supp
   - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services.
 
 ## Email
+
 **⚠️ You are the product:**
+
 - Gmail - Owned by Google.
 - Outlook - Owned by Microsoft.
 - Yahoo - [Multiple data breaches](https://en.wikipedia.org/wiki/Yahoo!_data_breaches).
 
 **🔏 Alternatives:**
+
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
 - [Tutanota](https://tutanota.com/) - [FAQ](https://tutanota.uservoice.com/knowledgebase/topics/69730-english).
 - [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report).
@@ -108,12 +126,15 @@ The list is separated into topics and each service or software stated gives supp
 - [Kolab Now](https://kolabnow.com) - Online service providing personal [Kolab Groupware](https://kolabenterprise.com) on desired level. [Privacy Statement](https://kolabnow.com/privacy).
 
 ## Operating Systems
+
 **⚠️ You are the product:**
+
 - Windows - [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/).
 - Chrome OS - Owned by Google.
 - Android (preinstalled) - [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/).
 
 **🔏 Alternatives:**
+
 - [Linux](http://www.wikiwand.com/en/Linux) - Open source kernel.
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
@@ -124,38 +145,48 @@ The list is separated into topics and each service or software stated gives supp
 - [FreeBSD](https://www.freebsd.org) - [Privacy Policy](https://www.freebsd.org/privacy.html).
 
 ## Browsers
+
 **⚠️ You are the product:**
+
 - Google Chrome - Owned by Google.
 - Edge Browser - Owned by Microsoft.
 
 **🔏 Alternatives:**
+
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
-- [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](http://www.wikiwand.com/en/Tor_(anonymity_network)).
+- [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](<http://www.wikiwand.com/en/Tor_(anonymity_network)>).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#readme) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
 
 ## Video Sharing
+
 **⚠️ You are the product:**
+
 - YouTube - Owned by Google.
 
 **🔏 Alternatives:**
+
 - [DTube](https://d.tube/) - [What is DTube?](https://about.d.tube/)
 - [Peertube](https://joinpeertube.org) - [Peertube instances](https://instances.joinpeertube.org).
 - [BitChute](https://www.bitchute.com/) - [Peer to peer video sharing platform](https://en.wikipedia.org/wiki/BitChute).
 
 ## AI Assistants
+
 **⚠️ You are the product:**
+
 - Amazon Alexa - Owned by Amazon.
 - Google Home - Owned by Google.
 - IBM Watson - Owned by IBM.
 
 **🔏 Alternatives:**
+
 - [Snips](https://snips.ai) - AI assistant platform.
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
 
 ## Related
+
 - [Privacy Tools](https://www.privacytools.io/) - Encryption against global mass surveillance. [(GitHub)](https://github.com/privacytoolsIO/privacytools.io#readme)
 - [Digital Privacy Tips](https://bluz71.github.io/2018/06/20/digital-privacy-tips.html)
 - [PRISM Break](https://prism-break.org/en/all/) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora. [(GitLab)](https://gitlab.com/prism-break/prism-break)
@@ -182,10 +213,13 @@ The list is separated into topics and each service or software stated gives supp
 - [That one privacy site](https://thatoneprivacysite.net/) - A detailed privacy-oriented comparison between VPN and E-mail providers.
 
 ## Contributing
+
 See [contribution guidelines](CONTRIBUTING.md/#readme).
 
 ## More lists 📝
+
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
