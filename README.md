@@ -218,7 +218,7 @@ The list is separated into topics and each service or software stated gives supp
 
 See [contribution guidelines](CONTRIBUTING.md/#readme).
 
-## More lists 📝
+## More lists
 
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
