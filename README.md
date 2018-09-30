@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/jFRB8U4.png" alt="bDialog" height="200px"></p>
 
-# Privacy Respecting [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+# Privacy Respecting [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 
 > Curated List of Privacy Respecting Services and Software
 
@@ -218,10 +218,7 @@ The list is separated into topics and each service or software stated gives supp
 
 See [contribution guidelines](CONTRIBUTING.md/#readme).
 
-## More lists
-
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
-
 ---
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
