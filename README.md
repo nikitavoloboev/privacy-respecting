@@ -95,6 +95,7 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 
+- [IPFS](https://ipfs.io/) - [Open source](https://github.com/ipfs/ipfs#readme)
 - [Syncthing](https://syncthing.net/) - [Open source](https://github.com/syncthing/syncthing#readme).
 - [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
 - [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Self hosted + encryption app available.
