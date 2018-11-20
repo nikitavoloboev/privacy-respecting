@@ -118,6 +118,7 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 
+- [Mailfence](https://mailfence.com) - [Secure](https://mailfence.com/en/secure-email.jsp) and [private](https://mailfence.com/en/private-email.jsp) email-suite ([About](https://blog.mailfence.com/about-mailfence/), [Privacy policy](https://mailfence.com/en/privacy.jsp), [Transparency report](https://blog.mailfence.com/transparency-report-and-warrant-canary/)).
 - [ProtonMail](https://protonmail.com/) - [Security of ProtonMail](https://protonmail.com/security-details).
 - [Tutanota](https://tutanota.com/) - [FAQ](https://tutanota.uservoice.com/knowledgebase/topics/69730-english).
 - [Posteo](https://posteo.de/en) - [About Posteo](https://posteo.de/en/site/about_posteo/). [Transparency Report](https://posteo.de/en/site/transparency_report).
