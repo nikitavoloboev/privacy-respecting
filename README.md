@@ -65,12 +65,12 @@ The list is separated into topics and each service or software stated gives supp
 
 **⚠️ You are the product:**
 
-- WhatsApp - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol) thus chats are E2E encrypted. However it sends entire user's contact books to FB servers. Owned by Facebook.
+- WhatsApp - Uses [Signal Protocol](http://en.wikipedia.org/wiki/Signal_Protocol) thus chats are E2E encrypted. However it sends entire user's contact books to FB servers. Owned by Facebook.
 - Facebook Messenger - Owned by Facebook.
 
 **🔏 Alternatives:**
 
-- [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://www.wikiwand.com/en/Signal_Protocol).
+- [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://en.wikipedia.org/wiki/Signal_Protocol).
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
 - [Riot](https://about.riot.im) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
@@ -137,7 +137,7 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 
-- [Linux](http://www.wikiwand.com/en/Linux) - Open source kernel.
+- [Linux](http://en.wikipedia.org/wiki/Linux) - Open source kernel.
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
 - iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
@@ -159,7 +159,7 @@ The list is separated into topics and each service or software stated gives supp
 
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
 - [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
-- [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](<http://www.wikiwand.com/en/Tor_(anonymity_network)>).
+- [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](<http://en.wikipedia.org/wiki/Tor_(anonymity_network)>).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#readme) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
 
