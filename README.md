@@ -191,6 +191,7 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Related
 
+- [Security Checklist](https://securitycheckli.st/) - Open source checklist of resources designed to improve your online privacy and security.
 - [Privacy Tools](https://www.privacytools.io/) - Encryption against global mass surveillance. [(GitHub)](https://github.com/privacytoolsIO/privacytools.io#readme)
 - [Digital Privacy Tips](https://bluz71.github.io/2018/06/20/digital-privacy-tips.html)
 - [PRISM Break](https://prism-break.org/en/all/) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora. [(GitLab)](https://gitlab.com/prism-break/prism-break)
