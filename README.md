@@ -60,6 +60,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
 - [Chttr](https://chttr.co/) - [Politically unbiased, privacy respecting social network](https://chttr.co/about).
 - [Pleroma](https://pleroma.social/) - [Pleroma instances](http://distsn.org/pleroma-instances.html).
+- [Cent](https://cent.co/) - Democratized social network built on Ethereum. [What is Cent?](https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8)
 
 ## Messengers
 
