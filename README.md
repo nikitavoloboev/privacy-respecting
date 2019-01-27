@@ -108,6 +108,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html). Storage providers cannot read stored data.
   - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids.
   - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services.
+- [Tresorit](https://tresorit.com/) - Swiss based end-to-end encrypted cloud storage.
 
 ## Email
 
