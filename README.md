@@ -103,7 +103,6 @@ The list is separated into topics and each service or software stated gives supp
 - [ownCloud](https://owncloud.org/) - [ownCloud Features](https://owncloud.org/features/). Self hosted + encryption app available.
 - [Keybase](https://keybase.io/) - Open-source end-to-end encrypted Dropbox and GitHub alternative.
 - [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
-- [Mega](https://mega.nz) - [Privacy Company](https://mega.nz/privacycompany) - Open-source end-to-end encrypted.
 - [SpiderOak ONE](https://spideroak.com) - End-to-end no-knowledge encryption, [Edward Snowden endorsed!](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak)
 - [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html). Storage providers cannot read stored data.
   - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids.
