@@ -13,6 +13,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 - [Social Networks](#social-networks)
 - [Messengers](#messengers)
 - [Cloud Storage](#cloud-storage)
+- [VPN](#vpn)
 - [Email](#email)
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
@@ -108,6 +109,16 @@ The list is separated into topics and each service or software stated gives supp
   - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids.
   - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services.
 - [Tresorit](https://tresorit.com/) - Swiss based end-to-end encrypted cloud storage.
+
+## VPN
+
+**⚠️ You are the product:**
+
+- Any VPN that is free or keeps logs.
+
+**🔏 Alternatives:**
+
+- [ProtonVPN](https://protonvpn.com/) - As a Swiss VPN provider, Proton does not log user activity or share data with third parties. Tor is also supported.
 
 ## Email
 
