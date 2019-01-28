@@ -158,8 +158,8 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 
-- [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
-- [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
+- [Brave](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](<http://en.wikipedia.org/wiki/Tor_(anonymity_network)>).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#readme) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
