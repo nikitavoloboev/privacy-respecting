@@ -13,6 +13,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 - [Social Networks](#social-networks)
 - [Messengers](#messengers)
 - [Cloud Storage](#cloud-storage)
+- [VPN](#vpn)
 - [Email](#email)
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
@@ -109,6 +110,16 @@ The list is separated into topics and each service or software stated gives supp
   - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services.
 - [Tresorit](https://tresorit.com/) - Swiss based end-to-end encrypted cloud storage.
 
+## VPN
+
+**⚠️ You are the product:**
+
+- Any VPN that is free or keeps logs.
+
+**🔏 Alternatives:**
+
+- [ProtonVPN](https://protonvpn.com/) - As a Swiss VPN provider, Proton does not log user activity or share data with third parties. Tor is also supported.
+
 ## Email
 
 **⚠️ You are the product:**
@@ -158,8 +169,8 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 
-- [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
-- [Brave Browser](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
+- [Brave](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](<http://en.wikipedia.org/wiki/Tor_(anonymity_network)>).
 - [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#readme) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
