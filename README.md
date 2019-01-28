@@ -60,6 +60,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Minds](https://www.minds.com/) - Anonymous & open-source social network with encrypted conversations. [How Minds.com Protects Your Privacy](https://www.minds.com/blog/view/823256224013205504).
 - [Chttr](https://chttr.co/) - [Politically unbiased, privacy respecting social network](https://chttr.co/about).
 - [Pleroma](https://pleroma.social/) - [Pleroma instances](http://distsn.org/pleroma-instances.html).
+- [Cent](https://cent.co/) - Democratized social network built on Ethereum. [What is Cent?](https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8)
 
 ## Messengers
 
@@ -102,11 +103,11 @@ The list is separated into topics and each service or software stated gives supp
 - [ownCloud](https://owncloud.org/) - [ownCloud Features](https://owncloud.org/features/). Self hosted + encryption app available.
 - [Keybase](https://keybase.io/) - Open-source end-to-end encrypted Dropbox and GitHub alternative.
 - [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
-- [Mega](https://mega.nz) - [Privacy Company](https://mega.nz/privacycompany) - Open-source end-to-end encrypted.
 - [SpiderOak ONE](https://spideroak.com) - End-to-end no-knowledge encryption, [Edward Snowden endorsed!](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak)
 - [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html). Storage providers cannot read stored data.
   - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids.
   - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services.
+- [Tresorit](https://tresorit.com/) - Swiss based end-to-end encrypted cloud storage.
 
 ## Email
 
