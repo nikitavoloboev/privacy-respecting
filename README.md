@@ -119,6 +119,7 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 
 - [ProtonVPN](https://protonvpn.com/) - As a Swiss VPN provider, Proton does not log user activity or share data with third parties. Tor is also supported.
+- [Mullvad](https://mullvad.net/) - Swedish based VPN provider that retains no logs, with a mostly open source and transparent infrastructure. Accepts Bitcoin, Anonymous cash payments via envelope, PayPal, and more.
 
 ## Email
 
