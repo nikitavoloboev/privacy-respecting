@@ -6,7 +6,7 @@
 
 _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
 
-##### Contents
+#### Contents
 
 - [What?](#what)
 - [Search Engines](#search-engines)
