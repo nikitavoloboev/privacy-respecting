@@ -231,10 +231,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Secured.fyi](https://secured.fyi/) - A ranking of paid and free services based on security and privacy attributes.
 - [That one privacy site](https://thatoneprivacysite.net/) - A detailed privacy-oriented comparison between VPN and E-mail providers.
 
-## Contributing
-
-See [contribution guidelines](CONTRIBUTING.md/#readme).
-
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
