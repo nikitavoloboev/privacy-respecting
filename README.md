@@ -94,6 +94,7 @@ The list is separated into topics and each service or software stated gives supp
 
 - Google Drive - Centralized and owned by Google.
 - OneDrive - Owned by Microsoft.
+- iCloud - [Records call logs from phone, FaceTime, Skype, WhatsApp, and others](https://theintercept.com/2016/11/17/iphones-secretly-send-call-history-to-apple-security-firm-says/)
 
 **🔏 Alternatives:**
 
@@ -148,17 +149,17 @@ The list is separated into topics and each service or software stated gives supp
 - Windows - [Microsoft shares Windows 10 telemetry data with third parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/).
 - Chrome OS - Owned by Google.
 - Android (preinstalled) - [Google collects meta data (phone calls, SMS) from Android phones](http://borncity.com/win/2016/07/01/surveillance-google-collects-meta-data-phone-calls-sms-from-android-phones/).
+- macOS - [By default, Spotlight sends all your search data to Apple](https://lifehacker.com/safari-and-spotlight-can-send-data-to-apple-heres-how-1648453540)
+- iOS - [Contains multiple backdoors](https://www.theguardian.com/technology/2014/jul/23/iphone-backdoors-surveillance-forensic-services)
 
 **🔏 Alternatives:**
 
 - [Linux](http://en.wikipedia.org/wiki/Linux) - Open source kernel.
 - [Tails OS](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org)
-- iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
 - [Android with LineageOS](https://lineageos.org/about/)
 - [Android with Copperhead](https://copperhead.co/android/)
 - [Android with /e/](https://e.foundation) - Fully ungoogled mobile phone OS. [Privacy Facts](https://e.foundation/privacy-facts/)
-- macOS - [Apple privacy](https://www.apple.com/lae/privacy/).
 - [FreeBSD](https://www.freebsd.org) - [Privacy Policy](https://www.freebsd.org/privacy.html).
 - [PureOS](https://pureos.net/) - Secure and freedom respecting. Soon also on smartphone: [Librem5](https://puri.sm/shop/librem-5/).
 
@@ -168,6 +169,7 @@ The list is separated into topics and each service or software stated gives supp
 
 - Google Chrome - Owned by Google.
 - Edge Browser - Owned by Microsoft.
+- Safari - [Default "Safe Browsing" setting shares web history with Chinese company Tencent](https://blog.cryptographyengineering.com/2019/10/13/dear-apple-safe-browsing-might-not-be-that-safe/)
 
 **🔏 Alternatives:**
 
