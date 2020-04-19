@@ -199,7 +199,6 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 
-- [Snips](https://snips.ai) - AI assistant platform.
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
 
