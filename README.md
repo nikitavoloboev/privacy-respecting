@@ -73,16 +73,13 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://en.wikipedia.org/wiki/Signal_Protocol).
-- [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
+- [Status](https://status.im/) - secure messaging app, crypto wallet, and Web3 browser
 - [Riot](https://about.riot.im) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and Dropbox alternative.
 - [Ring](https://ring.cx/) - [About Ring](https://ring.cx/en/about/practical).
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
-- [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
 - [Tox](https://github.com/TokTok/c-toxcore#readme) - Peer-to-peer serverless IM platform.
-- [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
 - [Conversations](https://conversations.im/) - Built on XMPP/Jabber. [List of XMPP clients for any operating system](https://xmpp.org/software/clients.html).
 - [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
 - [Wickr](https://www.wickr.com/) - Encrypted Ephemeral Platform Trusted By Millions Worldwide.
@@ -102,7 +99,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
 - [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Self hosted + encryption app available.
 - [ownCloud](https://owncloud.org/) - [ownCloud Features](https://owncloud.org/features/). Self hosted + encryption app available.
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted Dropbox and GitHub alternative.
 - [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
 - [SpiderOak ONE](https://spideroak.com) - End-to-end no-knowledge encryption, [Edward Snowden endorsed!](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak)
 - [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html). Storage providers cannot read stored data.
@@ -121,6 +117,8 @@ The list is separated into topics and each service or software stated gives supp
 - [ProtonVPN](https://protonvpn.com/) - As a Swiss VPN provider, Proton does not log user activity or share data with third parties. Tor is also supported.
 - [Mullvad](https://mullvad.net/) - Swedish based VPN provider that retains no logs, and uses a mostly open source and transparent infrastructure available to the public. Accepts Bitcoin, anonymous cash payments via envelope, PayPal, and more.
 - [OVPN](https://www.ovpn.com/) - Swedish provider that operates VPN servers without any hard drives, has a strict no logs policy, and publishes transparency reports. Accepts Bitcoin, anonymous cash payments, PayPal, and more.
+- [Azire](https://www.azirevpn.com/) - Swedish provider that uses secure and modern protocols, along with SOCKS5 proxies, DNS servers and IPv6 connectivity in carefully chosen locations.
+- [IPVN](https://www.ivpn.net/) -  Gibaltar based provider with 77 servers in 31 countries, accepts Bitcoin.
 
 ## Email
 
