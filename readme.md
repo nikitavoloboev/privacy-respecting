@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/jFRB8U4.png" alt="bDialog" height="200px"></p>
-
 # Privacy Respecting [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
 > Curated List of Privacy Respecting Services and Software
