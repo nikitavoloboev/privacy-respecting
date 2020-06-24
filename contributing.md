@@ -14,4 +14,4 @@ Thank you for taking the time to contribute! ♥️ Ensure your PR adheres to fo
 - New categories or improvements to the existing categorization are welcome.
 - You can also add related links and repositories in the end.
 
-We welcome all [your suggestions](../../edit/master/readme.md).
+[All suggestions are welcome](../../edit/master/readme.md).
