@@ -181,6 +181,7 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 
+- [LBRY.tv](https://lbry.tv/) - [What is LBRY exactly?](https://lbry.com/faq/what-is-lbry)
 - [DTube](https://d.tube/) - [What is DTube?](https://about.d.tube/)
 - [Peertube](https://joinpeertube.org) - [Peertube instances](https://instances.joinpeertube.org).
 - [BitChute](https://www.bitchute.com/) - [Peer to peer video sharing platform](https://en.wikipedia.org/wiki/BitChute).
