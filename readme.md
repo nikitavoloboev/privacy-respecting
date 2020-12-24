@@ -59,6 +59,12 @@ The list is separated into topics and each service or software stated gives supp
 - [Pleroma](https://pleroma.social/) - [Pleroma instances](http://distsn.org/pleroma-instances.html).
 - [Cent](https://cent.co/) - Democratized social network built on Ethereum. [What is Cent?](https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8)
 
+**🥽 Private front-ends:**
+- [Invidious](https://invidio.us) - An alternative front-end to YouTube. [Open source](https://github.com/iv-org/invidious).
+- [Nitter](https://nitter.net) - Alternative Twitter front-end. [Open source](https://github.com/zedeus/nitter).
+- [Libreddit](https://libredd.it) - Private front-end for Reddit written in Rust. [Open source](https://github.com/spikecodes/libreddit).
+- [Bibliogram](https://bibliogram.art) - An alternative front-end for Instagram. [Open source](https://sr.ht/~cadence/bibliogram).
+
 ## Messengers
 
 **⚠️ You are the product:**
