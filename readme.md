@@ -60,10 +60,11 @@ The list is separated into topics and each service or software stated gives supp
 - [Cent](https://cent.co/) - Democratized social network built on Ethereum. [What is Cent?](https://medium.com/cent-official/cent-income-from-anywhere-519515b396d8)
 
 **🥽 Private front-ends:**
-- [Invidious](https://invidio.us) - An alternative front-end to YouTube. [Open source](https://github.com/iv-org/invidious).
-- [Nitter](https://nitter.net) - Alternative Twitter front-end. [Open source](https://github.com/zedeus/nitter).
-- [Libreddit](https://libredd.it) - Private front-end for Reddit written in Rust. [Open source](https://github.com/spikecodes/libreddit).
-- [Bibliogram](https://bibliogram.art) - An alternative front-end for Instagram. [Open source](https://sr.ht/~cadence/bibliogram).
+
+- [Invidious](https://invidio.us) - Alternative front-end to YouTube. [Code](https://github.com/iv-org/invidious).
+- [Nitter](https://nitter.net) - Alternative Twitter front-end. [Code](https://github.com/zedeus/nitter).
+- [Libreddit](https://libredd.it) - Private front-end for Reddit written in Rust. [Code](https://github.com/spikecodes/libreddit).
+- [Bibliogram](https://bibliogram.art) - An alternative front-end for Instagram. [Code](https://sr.ht/~cadence/bibliogram).
 
 ## Messengers
 
