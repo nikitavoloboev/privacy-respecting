@@ -77,10 +77,10 @@ The list is separated into topics and each service or software stated gives supp
 
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://en.wikipedia.org/wiki/Signal_Protocol).
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
-- [Riot](https://about.riot.im) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
+- [Element (formely Riot)](https://element.io) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
 - [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and Dropbox alternative.
-- [Ring](https://ring.cx/) - [About Ring](https://ring.cx/en/about/practical).
+- [Jami (formely Ring)](https://jami.net/) - Distributed universal and secure Free Software for multimedia communications.
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
