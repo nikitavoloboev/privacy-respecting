@@ -79,10 +79,8 @@ The list is separated into topics and each service or software stated gives supp
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
 - [Element (formely Riot)](https://element.io) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
-- [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative.
 - [Jami (formely Ring)](https://jami.net/) - Distributed universal and secure Free Software for multimedia communications.
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
-- [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
 - [Tox](https://github.com/TokTok/c-toxcore) - Peer-to-peer serverless IM platform.
 - [Wire](http://wire.com/) - Open-source Projet based on End-to-end encryption (server in Switzerland).
@@ -90,6 +88,10 @@ The list is separated into topics and each service or software stated gives supp
 - [Public XMPP services](https://xmpp.net/) - Choose one, talk to any, or run your own with [Prosody](https://prosody.im/).
 - [Wickr](https://www.wickr.com/) - Encrypted Ephemeral Platform Trusted By Millions Worldwide.
 - [Semaphor](https://spideroak.com/) - Encrypted, decentralized authority team chat and file sharing.
+
+**❔ Questionable:**
+- [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative. It's backend is not open source and it also [got merged with Zoom](https://keybase.io/blog/keybase-joins-zoom)
+- [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app. However, the backend is not open source (yet).
 
 ## Cloud Storage
 
@@ -105,13 +107,15 @@ The list is separated into topics and each service or software stated gives supp
 - [Seafile](https://www.seafile.com/en/home/) - [About Seafile](https://www.seafile.com/en/about/).
 - [Nextcloud](https://nextcloud.com/) - [About Nextcloud](https://nextcloud.com/about/). Self hosted + encryption app available.
 - [ownCloud](https://owncloud.org/) - [ownCloud Features](https://owncloud.org/features/). Self hosted + encryption app available.
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted Dropbox and GitHub alternative.
 - [CozyCloud](https://cozy.io) - [Privacy and CozyCloud](https://cozy.io/en/privacy/). Open Source + self hosted.
 - [SpiderOak ONE](https://spideroak.com) - End-to-end no-knowledge encryption, [Edward Snowden endorsed!](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak)
 - [Tahoe-LAFS](https://tahoe-lafs.org/) - Capability-secure, end-to-end encryption, [provider-independent privacy](https://tahoe-lafs.readthedocs.io/en/latest/about.html). Storage providers cannot read stored data.
   - [Least Authority](https://leastauthority.com/) - Paid personal Tahoe-LAFS grids.
   - [Matador Cloud](https://matador.cloud/) - Free global Tahoe-LAFS grid, paid services.
 - [Tresorit](https://tresorit.com/) - Swiss based end-to-end encrypted cloud storage.
+
+**❔ Questionable:**
+- [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative. It's backend is not open source and it also [got merged with Zoom](https://keybase.io/blog/keybase-joins-zoom)
 
 ## VPN
 
@@ -177,8 +181,10 @@ The list is separated into topics and each service or software stated gives supp
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [Firefox privacy](https://www.mozilla.org/en-US/privacy/firefox/).
 - [Brave](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](<http://en.wikipedia.org/wiki/Tor_(anonymity_network)>).
-- [Vivaldi](https://vivaldi.com) - [DuckDuckGo Collaboration](https://vivaldi.com/press/releases/take-your-privacy-back/).
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
+
+**❔ Questionable:**
+- [Vivaldi](https://vivaldi.com) - Non-privacy settings by default, partially proprietary. [It does install per a Unique User ID](https://forum.vivaldi.net/topic/11413/privacy-does-v-create-unique-installation-id-for-google-other-privacy-mods-of-srware-s-iron)
 
 ## Video Sharing
 
