@@ -6,7 +6,7 @@ Thank you for taking the time to contribute! ♥️ Ensure your PR adheres to fo
 - Only add entries you think are great! Feel welcome to remove entries that you think aren't great!
 - Use the following format: `[Name](link) - Description.`
 - The service/tool should be put into its appropriate category. Pick one you think is closest if you are not sure.
-- Each service/tool should either go under `You are the product` or `Alternatives`.
+- Each service/tool should either go under `You are the product`, `Alternatives` or `Questionable` if project raises some suspicion.
 - Where Description arguments why the service/tool was put there.
 - Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
