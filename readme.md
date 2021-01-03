@@ -90,6 +90,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Semaphor](https://spideroak.com/) - Encrypted, decentralized authority team chat and file sharing.
 
 **❔ Questionable:**
+
 - [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative. It's backend is not open source and it also [got merged with Zoom](https://keybase.io/blog/keybase-joins-zoom)
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app. However, the backend is not open source (yet).
 
@@ -115,6 +116,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Tresorit](https://tresorit.com/) - Swiss based end-to-end encrypted cloud storage.
 
 **❔ Questionable:**
+
 - [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative. It's backend is not open source and it also [got merged with Zoom](https://keybase.io/blog/keybase-joins-zoom)
 
 ## VPN
@@ -184,6 +186,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
 
 **❔ Questionable:**
+
 - [Vivaldi](https://vivaldi.com) - Non-privacy settings by default, partially proprietary. [It does install per a Unique User ID](https://forum.vivaldi.net/topic/11413/privacy-does-v-create-unique-installation-id-for-google-other-privacy-mods-of-srware-s-iron)
 
 ## Video Sharing
