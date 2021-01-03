@@ -79,7 +79,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
 - [Element (formely Riot)](https://element.io) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
-- [Keybase](https://keybase.io/) - Open-source end-to-end encrypted chat and Dropbox alternative.
+- [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative.
 - [Jami (formely Ring)](https://jami.net/) - Distributed universal and secure Free Software for multimedia communications.
 - [Ricochet](https://ricochet.im/) - Anonymous instant messaging.
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app.
