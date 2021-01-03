@@ -184,7 +184,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
 
 **❔ Questionable:**
-- [Vivaldi](https://vivaldi.com) - Non-privacy settings by default, partially proprietary.
+- [Vivaldi](https://vivaldi.com) - Non-privacy settings by default, partially proprietary. [It does install per a Unique User ID](https://forum.vivaldi.net/topic/11413/privacy-does-v-create-unique-installation-id-for-google-other-privacy-mods-of-srware-s-iron)
 
 ## Video Sharing
 
