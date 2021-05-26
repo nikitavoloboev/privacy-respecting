@@ -249,6 +249,7 @@ The list is separated into topics and each service or software stated gives supp
 - [CurePrivacy](https://cureprivacy.com/)
 - [Btfy](https://btfy.io) - Privacy-focused custom url shortener and branded links
 - [yeeturl](https://yeeturl.glitch.me/) - End to end encrypted and privacy-respecting URL shortener.
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
