@@ -38,7 +38,6 @@ The list is separated into topics and each service or software stated gives supp
 - [DuckDuckGo](https://duckduckgo.com/) - [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
 - [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
 - [Searx](https://github.com/asciimoo/searx) - [Why use Searx?](https://asciimoo.github.io/searx/)
-- [Qwant](https://www.qwant.com/) - [Qwant privacy policy](https://about.qwant.com/legal/privacy/).
 
 ## Social Networks
 
@@ -78,6 +77,7 @@ The list is separated into topics and each service or software stated gives supp
 
 - [Signal](https://whispersystems.org/) - Uses [Signal Protocol](http://en.wikipedia.org/wiki/Signal_Protocol).
 - [Silence](https://silence.im/) - Fork of Signal based on SMS instead of a server.
+- [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, doesn't even require phone number to sign up.
 - [Element (formely Riot)](https://element.io) - Secure decentralized chat powered by [Matrix](https://matrix.org/blog/home/) protocol.
 - [Threema](https://threema.ch/en/) - [FAQ](https://threema.ch/en/faq).
 - [Jami (formely Ring)](https://jami.net/) - Distributed universal and secure Free Software for multimedia communications.
@@ -129,6 +129,7 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 
 - [ProtonVPN](https://protonvpn.com/) - As a Swiss VPN provider, Proton does not log user activity or share data with third parties. Tor is also supported.
+- [IVPN](https://www.ivpn.net/) - Gibraltar based no logs VPN which is open source, third party audited and doesn't require any personal data (not even email) to sign up. Accepts cash payments, Bitcoin, Monero, PayPal, and more.
 - [Mullvad](https://mullvad.net/) - Swedish based VPN provider that retains no logs, and uses a mostly open source and transparent infrastructure available to the public. Accepts Bitcoin, anonymous cash payments via envelope, PayPal, and more.
 - [OVPN](https://www.ovpn.com/) - Swedish provider that operates VPN servers without any hard drives, has a strict no logs policy, and publishes transparency reports. Accepts Bitcoin, anonymous cash payments, PayPal, and more.
 
@@ -167,6 +168,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Qubes OS](https://www.qubes-os.org)
 - iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
 - [Android with LineageOS](https://lineageos.org/about/)
+- [Android with CalyxOS](https://calyxos.org/) - Only Pixel devices and Xiaomi Mi A2 supported.
+- [Android with GrapheneOS](https://grapheneos.org/) - Only Pixel devices supported.
+- [Android with DivestOS](https://divestos.org) - LineageOS fork with increased security and privacy.
 - [Android with Copperhead](https://copperhead.co/android/)
 - [Android with /e/](https://e.foundation) - Fully ungoogled mobile phone OS. [Privacy Facts](https://e.foundation/privacy-facts/)
 - macOS - [Apple privacy](https://www.apple.com/lae/privacy/).
@@ -186,6 +190,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Brave](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](<http://en.wikipedia.org/wiki/Tor_(anonymity_network)>).
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
+- [Bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with support for ad blocking and enhanced privacy. Available only for android devices.
 
 **❔ Questionable:**
 
