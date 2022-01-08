@@ -251,7 +251,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Secured.fyi](https://secured.fyi/) - A ranking of paid and free services based on security and privacy attributes.
 - [That one privacy site](https://thatoneprivacysite.net/) - A detailed privacy-oriented comparison between VPN and E-mail providers.
 - [Disroot](https://disroot.org/) - A platform providing online services based on principles of freedom, privacy, federation and decentralization.
-- [CurePrivacy](https://cureprivacy.com/)
 - [Btfy](https://btfy.io) - Privacy-focused custom url shortener and branded links
 - [yeeturl](https://yeeturl.glitch.me/) - End to end encrypted and privacy-respecting URL shortener.
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
