@@ -256,6 +256,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [privacy.sexy](https://privacy.sexy) - Open-source tool enforce privacy & security best-practices on desktop operating systems.
 - [EncryptedList](https://encryptedlist.xyz/) - List of services that offer zero-knowledge or end-to-end encryption 🔐.
+- [Swetrix](https://swetrix.com) - Privacy-focused open-source web analytics service.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
