@@ -190,6 +190,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Brave](https://www.brave.com/) - [About Brave](https://www.brave.com/about/).
 - [Tor Browser](https://www.torproject.org/docs/tor-doc-win32) - [Tor (anonymity network) wiki](<http://en.wikipedia.org/wiki/Tor_(anonymity_network)>).
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - [More about Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium#credits).
+- [Kiwi Browser](https://kiwibrowser.com/) — Chromium fork with support for Chrome extensions, enhanced privacy, ad/tracking blocking, and misc improvements. Android only.
 - [Bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with support for ad blocking and enhanced privacy. Available only for android devices.
 
 **❔ Questionable:**
