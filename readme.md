@@ -35,15 +35,17 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 
-- [DuckDuckGo](https://duckduckgo.com/) - [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
-- [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html).
-- [Searx](https://github.com/asciimoo/searx) - [Why use Searx?](https://asciimoo.github.io/searx/)
+- [DuckDuckGo](https://duckduckgo.com/) - [DuckDuckGo privacy policy](https://duckduckgo.com/privacy)
+- [StartPage](https://www.startpage.com) - [How we protect you](https://www.startpage.com/eng/protect-privacy.html)
+- [Brave Search](https://search.brave.com) - [What is Brave Search?](https://brave.com/search)
+- [Searx](https://github.com/asciimoo/searx) - [Why use Searx?](https://asciimoo.github.io/searx)
+- [SearXNG](https://github.com/searxng/searxng) - [Fork of SearX](https://docs.searxng.org)
 
 ## Social Networks
 
 **⚠️ You are the product:**
 
-- Facebook - [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this/)
+- Facebook - [What should you think about when using Facebook?](https://veekaybee.github.io/facebook-is-collecting-this)
 - Instagram - Owned by Facebook.
 
 **🔏 Alternatives:**
@@ -61,6 +63,7 @@ The list is separated into topics and each service or software stated gives supp
 **🥽 Private front-ends:**
 
 - [Invidious](https://invidio.us) - Alternative front-end to YouTube. [Code](https://github.com/iv-org/invidious).
+- [Piped](https://piped.kavin.rocks) - YouTube Alternative front-end. [Code](https://github.com/TeamPiped/Piped).
 - [Nitter](https://nitter.net) - Alternative Twitter front-end. [Code](https://github.com/zedeus/nitter).
 - [Libreddit](https://libredd.it) - Private front-end for Reddit written in Rust. [Code](https://github.com/spikecodes/libreddit).
 - [Teddit](https://teddit.net) - Alternative Reddit front-end focused on privacy. [Code](https://codeberg.org/teddit/teddit).
@@ -165,8 +168,9 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 
 - [Linux](http://en.wikipedia.org/wiki/Linux) - Open source kernel.
-- [Tails OS](https://tails.boum.org/)
-- [Qubes OS](https://www.qubes-os.org)
+- [Fedora](https://getfedora.org) - User-friendly linux distribution
+- [Tails OS](https://tails.boum.org/) - Secure operating system that runs off a live USB
+- [Qubes OS](https://www.qubes-os.org) - Operating system with strong focus on security
 - iOS - [iOS 10 security white paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf).
 - [Android with LineageOS](https://lineageos.org/about/)
 - [Android with CalyxOS](https://calyxos.org/) - Only Pixel devices and Xiaomi Mi A2 supported.
@@ -206,7 +210,7 @@ The list is separated into topics and each service or software stated gives supp
 
 **🔏 Alternatives:**
 
-- [LBRY.tv](https://lbry.tv/) - [What is LBRY exactly?](https://lbry.com/faq/what-is-lbry)
+- [Odysee](https://odysee.com) - [Privacy Policy](https://odysee.com/$/privacypolicy).
 - [DTube](https://d.tube/) - [What is DTube?](https://about.d.tube/)
 - [Peertube](https://joinpeertube.org) - [Peertube instances](https://instances.joinpeertube.org).
 - [BitChute](https://www.bitchute.com/) - [Peer to peer video sharing platform](https://en.wikipedia.org/wiki/BitChute).
