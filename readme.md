@@ -40,6 +40,7 @@ The list is separated into topics and each service or software stated gives supp
 - [Brave Search](https://search.brave.com) - [What is Brave Search?](https://brave.com/search)
 - [Searx](https://github.com/asciimoo/searx) - [Why use Searx?](https://asciimoo.github.io/searx)
 - [SearXNG](https://github.com/searxng/searxng) - [Fork of SearX](https://docs.searxng.org)
+- [Librengine](https://github.com/liameno/librengine) - Privacy Web Search Engine 
 
 ## Social Networks
 
