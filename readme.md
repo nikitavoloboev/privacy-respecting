@@ -68,7 +68,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Nitter](https://nitter.net) - Alternative Twitter front-end. [Code](https://github.com/zedeus/nitter).
 - [Libreddit](https://libredd.it) - Private front-end for Reddit written in Rust. [Code](https://github.com/spikecodes/libreddit).
 - [Teddit](https://teddit.net) - Alternative Reddit front-end focused on privacy. [Code](https://codeberg.org/teddit/teddit).
-- [Bibliogram](https://bibliogram.art) - An alternative front-end for Instagram. [Code](https://sr.ht/~cadence/bibliogram).
 - [Beatbump](https://beatbump.ml) - Alternative front-end for Youtube Music. [Code](https://github.com/snuffydev/beatbump).
 
 ## Messengers
