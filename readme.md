@@ -10,6 +10,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Messengers](#messengers)
 - [Cloud Storage](#cloud-storage)
 - [VPN](#vpn)
+- [HOSTING](#hosting)
 - [Email](#email)
 - [Operating Systems](#operating-systems)
 - [Browsers](#browsers)
@@ -124,6 +125,10 @@ The list is separated into topics and each service or software stated gives supp
 **❔ Questionable:**
 
 - [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative. It's backend is not open source and it also [got merged with Zoom](https://keybase.io/blog/keybase-joins-zoom)
+
+## Hosting
+
+- [Decentralized Web](https://decentralized-web.vercel.app/) - Static web page hosting in URLs.
 
 ## VPN
 
